@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "updated": "2026-11-06",
+  "defaultFavourites": [
+    "jericho",
+    "deliverance-short",
+    "atmosphere",
+    "st-michael"
+  ],
+  "prayers": [
+    {
+      "id": "jericho",
+      "title": {
+        "ml": "ജെറിക്കോ പ്രാർത്ഥന",
+        "en": "Jericho Prayer"
+      },
+      "body": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "images/jericho.jpg",
+      "published": true
+    },
+    {
+      "id": "deliverance-short",
+      "title": {
+        "ml": "ചെറിയ വിടുതൽ പ്രാർത്ഥന",
+        "en": "Deliverance Prayer Short"
+      },
+      "body": {
+        "ml": "കർത്താവായ ഈശോയേ, അങ്ങു കുരിശിൽ ചിന്തിയ തിരുരക്തത്തിന്റെ യോഗ്യതയാലും കുരിശിലെ വിജയത്താലും അങ്ങയോടു ഐക്യപ്പെട്ടു പ്രാർത്ഥിക്കുന്ന എന്നെയും എന്റെ കുടുംബത്തെയും (സമൂഹം) ബന്ധുമിത്രാദികളെയും ഭവനങ്ങളെയും പരിസരത്തെയും അങ്ങയുടെ തിരുരക്തം കൊണ്ട് പൊതിഞ്ഞു, എല്ലാ പൈശാചിക ശക്തികളുടെ ആക്രമണങ്ങളിൽ നിന്നും സംരക്ഷിക്കണമേ. ഞങ്ങളെ ഉപദ്രവിക്കുന്ന എല്ലാ അന്ധകാര ശക്തികളെയും, ദുഷ്ട പിശാചുക്കളെയും അവയുടെ പ്രവർത്തനങ്ങളെയും, കർത്താവായ യേശുവേ അങ്ങയുടെ നാമത്തിൽ ബന്ധിച്ചു ഞങ്ങളെ രക്ഷിക്കണമേ ആമേൻ",
+        "en": "Lord Jesus, by the merits of the Precious Blood You shed on the Cross and by Your victory on the Cross, cover me, who pray in union with You, my family (community), my relatives and friends, our homes and our surroundings with Your Precious Blood, and protect us from every attack of the evil powers. Lord Jesus, in Your name, bind all the powers of darkness, the evil spirits and all their works that trouble us, and save us. Amen."
+      },
+      "image": "images/deliverance-short.jpg",
+      "published": true
+    },
+    {
+      "id": "deliverance-long",
+      "title": {
+        "ml": "വലിയ വിടുതൽ പ്രാർത്ഥന",
+        "en": "Deliverance Prayer Long"
+      },
+      "body": {
+        "ml": "കർത്താവായ ഈശോയേ, ഞങ്ങളുടെ ജീവിതത്തിലെ ബന്ധനങ്ങൾ മാറ്റി, അവിടുത്തെ തിരുരക്തം ഒഴുക്കി, പരിശുദ്ധ അമ്മയുടെ വിമലഹൃദയത്തിന്റെ യോഗ്യതയാൽ, കോടാനുകോടി മാലാഖമാരുടെയും, സ്വർഗ്ഗീയ മധ്യസ്ഥരുടെയും, രക്ത സാക്ഷികളുടെയും, വേദസാക്ഷികളുടെയും, സഹായവും സംരക്ഷണവും നൽകി അങ്ങയുടെ നാമത്തിൽ പിതാവിനോട് ചോദിക്കുന്ന ഈ കാര്യം (ആവശ്യം പറയുക) സാധിച്ചു തരണമേ\n\nആവർത്തിച്ചു ചൊല്ലാവുന്നതാണ്\n\nവചനം: നിങ്ങൾ എന്റെ നാമത്തിൽ ആവശ്യപെടുന്നതെന്തും പിതാവ് പുത്രനിൽ മഹത്വ പെടാൻ വേണ്ടി ഞാൻ പ്രവർത്തിക്കും (യോഹന്നാൻ 14:13)",
+        "en": "Lord Jesus, remove the bondages in our lives and pour out Your Precious Blood. Through the merits of the Immaculate Heart of our Blessed Mother, and with the help and protection of the countless angels, the heavenly intercessors, the martyrs and the confessors of the faith, grant us this intention (state your need), which we ask of the Father in Your name.\n\nThis prayer may be repeated.\n\nWord of God: \"Whatever you ask in my name, I will do, so that the Father may be glorified in the Son.\" (John 14:13)"
+      },
+      "image": "images/deliverance-long.jpg",
+      "published": true
+    },
+    {
+      "id": "rosary-mother",
+      "title": {
+        "ml": "ദൈവ മാതാവിനോടുള്ള ജപമാല പ്രാർത്ഥന",
+        "en": "Rosary to the Mother of God"
+      },
+      "body": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "images/rosary-mother.jpg",
+      "published": true
+    },
+    {
+      "id": "atmosphere",
+      "title": {
+        "ml": "അന്തരീക്ഷ വിശുദ്ധീകരണ പ്രാർത്ഥന",
+        "en": "Prayer for Purifying the Atmosphere"
+      },
+      "body": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "images/atmosphere.jpg",
+      "published": true
+    },
+    {
+      "id": "st-michael",
+      "title": {
+        "ml": "വി. മിഖായേൽ മാലാഖയോടുള്ള പ്രാർത്ഥന",
+        "en": "Prayer to St. Michael the Archangel"
+      },
+      "body": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "images/st-michael.jpg",
+      "published": true
+    },
+    {
+      "id": "journey",
+      "title": {
+        "ml": "യാത്ര ആരംഭിക്കും മുമ്പുള്ള പ്രാർത്ഥന",
+        "en": "Prayer Before a Journey"
+      },
+      "body": {
+        "ml": "",
+        "en": ""
+      },
+      "image": "images/journey.jpg",
+      "published": true
+    }
+  ]
+}
