@@ -19,7 +19,8 @@
         "en": ""
       },
       "image": "images/jericho.jpg",
-      "published": true
+      "bannerFocus":"15%",
+      "published": true,
     },
     {
       "id": "deliverance-short",
