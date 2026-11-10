@@ -1,0 +1,3651 @@
+{
+  "version": 2,
+  "backgrounds": [],
+  "verses": [
+    {
+      "id": "1peter-3-15",
+      "theme": "faith",
+      "ref": {
+        "ml": "1 പത്രോസ് 3:15",
+        "en": "1 Peter 3:15"
+      },
+      "text": {
+        "ml": "ക്രിസ്തുവിനെ കർത്താവായി നിങ്ങളുടെ ഹൃദയത്തിൽ പൂജിക്കുവിൻ.",
+        "en": "Sanctify the Lord Christ in your hearts."
+      },
+      "published": true
+    },
+    {
+      "id": "ecclesiastes-5-12",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സഭാപ്രസംഗകൻ 5:12",
+        "en": "Ecclesiastes 5:12"
+      },
+      "text": {
+        "ml": "അധ്വാനിക്കുന്നവന് സുഖനിദ്ര ലഭിക്കുന്നു.",
+        "en": "Sleep is sweet to a laboring man."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-2-11",
+      "theme": "faith",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 2:11",
+        "en": "Psalm 2:11"
+      },
+      "text": {
+        "ml": "ഭയത്തോടെ കർത്താവിന് ശുശ്രൂഷ ചെയ്യുവിൻ.",
+        "en": "Serve the Lord with fear."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-21-26",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 21:26",
+        "en": "Sirach 21:26"
+      },
+      "text": {
+        "ml": "ഭോഷന്റെ മനസ്സ് വായിലും ബുദ്ധിമാന്റെ വായ് മനസ്സിലുമാണ്.",
+        "en": "The heart of fools is in their mouth: and the mouth of wise men is in their heart."
+      },
+      "published": true
+    },
+    {
+      "id": "mark-13-13",
+      "theme": "strength",
+      "ref": {
+        "ml": "മർക്കോസ് 13:13",
+        "en": "Mark 13:13"
+      },
+      "text": {
+        "ml": "അവസാനംവരെ സഹിച്ചുനിൽക്കുന്നവൻ രക്ഷപ്രാപിക്കും.",
+        "en": "He that shall endure unto the end, he shall be saved."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-23-22",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 23:22",
+        "en": "Proverbs 23:22"
+      },
+      "text": {
+        "ml": "നിനക്കു ജന്മം നൽകിയ പിതാവിനെ അനുസരിക്കുക വൃദ്ധയായ അമ്മയെ നിന്ദിക്കരുത്.",
+        "en": "Listen to your father, who begot you: and despise not your mother when she is old."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-23-21",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 23:21",
+        "en": "Proverbs 23:21"
+      },
+      "text": {
+        "ml": "മത്തുപിടിച്ച് മയങ്ങുന്നവർക്ക് കീറത്തുണിയുടുക്കേണ്ടിവരും.",
+        "en": "Those who are dazed with drink will be clothed in rags."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "exodus-15-26",
+      "theme": "healing",
+      "ref": {
+        "ml": "പുറപ്പാട് 15:26",
+        "en": "Exodus 15:26"
+      },
+      "text": {
+        "ml": "ഞാൻ നിന്നെ സുഖപ്പെടുത്തുന്ന കർത്താവാണ്.",
+        "en": "I am the Lord your healer."
+      },
+      "published": true
+    },
+    {
+      "id": "joel-1-5",
+      "theme": "repentance",
+      "ref": {
+        "ml": "ജോയേൽ 1:5",
+        "en": "Joel 1:5"
+      },
+      "text": {
+        "ml": "മദ്യപന്മാരെ ഉണർന്നുവിലപിക്കുവിൻ, വീഞ്ഞ് കുടിക്കുന്നവരെ നെടുവീർപ്പിടുവിൻ",
+        "en": "Awake, you that are drunk, and weep, and mourn, all you that take delight in drinking sweet wine."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-18-16",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 18:16",
+        "en": "Sirach 18:16"
+      },
+      "text": {
+        "ml": "നല്ലവാക്ക് ദാനത്തേക്കാൾ വിശിഷ്ടമാണ്.",
+        "en": "The good word is better than the gift."
+      },
+      "published": true
+    },
+    {
+      "id": "james-4-12",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "യാക്കോബ് 4:12",
+        "en": "James 4:12"
+      },
+      "text": {
+        "ml": "നിന്റെ അയൽക്കാരനെ വിധിക്കാൻ നീയാരാണ്?",
+        "en": "Who are you that judge your neighbor?"
+      },
+      "published": true
+    },
+    {
+      "id": "2timothy-2-3",
+      "theme": "strength",
+      "ref": {
+        "ml": "2 തിമോത്തേയോസ് 2:3",
+        "en": "2 Timothy 2:3"
+      },
+      "text": {
+        "ml": "യേശുവിന്റെ നല്ല പടയാളികളെപ്പോലെ കഷ്ടപ്പാടുകൾ സഹിക്കുക.",
+        "en": "Labor as a good soldier of Christ Jesus."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-13-7",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "റോമാ 13:7",
+        "en": "Romans 13:7"
+      },
+      "text": {
+        "ml": "ഓരോരുത്തർക്കും അവകാശപ്പെട്ടിരിക്കുന്നത് കൊടുക്കുവിൻ.",
+        "en": "Render therefore to all people their dues."
+      },
+      "published": true
+    },
+    {
+      "id": "ephesians-2-14",
+      "theme": "peace",
+      "ref": {
+        "ml": "എഫേസോസ് 2:14",
+        "en": "Ephesians 2:14"
+      },
+      "text": {
+        "ml": "അവൻ നമ്മുടെ സമാധാനമാണ്.",
+        "en": "He is our peace."
+      },
+      "published": true
+    },
+    {
+      "id": "jeremiah-48-10",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ജറെമിയാ 48:10",
+        "en": "Jeremiah 48:10"
+      },
+      "text": {
+        "ml": "കർത്താവിന്റെ വേലയിൽ അലസനായവൻ ശപിക്കപ്പെട്ടവൻ.",
+        "en": "Cursed be he that does the work of the Lord deceitfully."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-37-17",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 37:17",
+        "en": "Psalm 37:17"
+      },
+      "text": {
+        "ml": "ദുഷ്ടന്റെ ഭുജം തകർക്കപ്പെടും. നീതിമാനെ കർത്താവ് താങ്ങും.",
+        "en": "The arms of the wicked shall be broken in pieces; but the Lord strengthens the just."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-20-8",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 20:8",
+        "en": "Sirach 20:8"
+      },
+      "text": {
+        "ml": "അമിതഭാഷി നിന്ദ്യനാണ്.",
+        "en": "He that uses many words shall hurt his own soul."
+      },
+      "published": true
+    },
+    {
+      "id": "james-3-16",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "യാക്കോബ് 3:16",
+        "en": "James 3:16"
+      },
+      "text": {
+        "ml": "എവിടെ അസൂയയും സ്വാർത്ഥമോഹവുമുണ്ടോ അവിടെ ക്രമക്കേടും എല്ലാവിധ ദുഷ്കർമ്മങ്ങളുമുണ്ട്.",
+        "en": "Where envying and contention is, there is inconstancy and every evil work."
+      },
+      "published": true
+    },
+    {
+      "id": "jonah-2-7",
+      "theme": "faith",
+      "ref": {
+        "ml": "യോനാ 2:7",
+        "en": "Jonah 2:7"
+      },
+      "text": {
+        "ml": "എന്റെ ജീവൻ മരവിച്ചപ്പോൾ ഞാൻ കർത്താവിനെ ഓർത്തു.",
+        "en": "When my soul was in distress within me, I remembered the Lord."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-6-11",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "മിക്കാ 6:11",
+        "en": "Micah 6:11"
+      },
+      "text": {
+        "ml": "കള്ളത്തുലാസും കള്ളക്കട്ടിയും കൈവശം വയ്ക്കുന്നവനെ ഞാൻ വെറുതെ വിടുമോ?",
+        "en": "Shall I justify wicked balances, and the deceitful weights of the bag?"
+      },
+      "published": true
+    },
+    {
+      "id": "hosea-13-4",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഹോസിയാ 13:4",
+        "en": "Hosea 13:4"
+      },
+      "text": {
+        "ml": "ഞാനല്ലാതെ മറ്റൊരു രക്ഷകനില്ല.",
+        "en": "There is no savior beside me."
+      },
+      "published": true
+    },
+    {
+      "id": "tobit-4-19",
+      "theme": "faith",
+      "ref": {
+        "ml": "തോബിത് 4:19",
+        "en": "Tobit 4:19"
+      },
+      "text": {
+        "ml": "കർത്താവാണ് എല്ലാ നന്മയും നൽകുന്നത്.",
+        "en": "It is the Lord who gives every good thing."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "john-10-11",
+      "theme": "love",
+      "ref": {
+        "ml": "യോഹന്നാൻ 10:11",
+        "en": "John 10:11"
+      },
+      "text": {
+        "ml": "നല്ല ഇടയൻ ആടുകൾക്കുവേണ്ടി ജീവൻ അർപ്പിക്കുന്നു.",
+        "en": "The good shepherd gives his life for his sheep."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-16-26",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "മത്തായി 16:26",
+        "en": "Matthew 16:26"
+      },
+      "text": {
+        "ml": "ഒരുവൻ ലോകംമുഴുവൻ നേടിയാലും സ്വന്തം ആത്മാവിനെ നഷ്ടപ്പെടുത്തിയാൽ അവന് എന്ത് പ്രയോജനം?",
+        "en": "What does it profit a man, if he gain the whole world and suffer the loss of his own soul?"
+      },
+      "published": true
+    },
+    {
+      "id": "1john-4-8",
+      "theme": "love",
+      "ref": {
+        "ml": "1 യോഹന്നാൻ 4:8",
+        "en": "1 John 4:8"
+      },
+      "text": {
+        "ml": "സ്നേഹിക്കാത്തവൻ ദൈവത്തെ അറിഞ്ഞിട്ടില്ല കാരണം ദൈവം സ്നേഹമാണ്.",
+        "en": "He that loves not knows not God: for God is love."
+      },
+      "published": true
+    },
+    {
+      "id": "jeremiah-3-22",
+      "theme": "repentance",
+      "ref": {
+        "ml": "ജറെമിയാ 3:22",
+        "en": "Jeremiah 3:22"
+      },
+      "text": {
+        "ml": "അവിശ്വസ്തരായ മക്കളേ തിരിച്ചുവരുവിൻ, ഞാൻ നിങ്ങളുടെ അവിശ്വസ്തത പരിഹരിക്കാം.",
+        "en": "Return, you rebellious children, and I will heal your rebellions."
+      },
+      "published": true
+    },
+    {
+      "id": "galatians-2-20",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഗലാത്തിയാ 2:20",
+        "en": "Galatians 2:20"
+      },
+      "text": {
+        "ml": "ഞാൻ ക്രിസ്തുവിനോടുകൂടി ക്രൂശിതനായിരിക്കുന്നു.",
+        "en": "With Christ I am nailed to the cross."
+      },
+      "published": true
+    },
+    {
+      "id": "galatians-6-15",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഗലാത്തിയാ 6:15",
+        "en": "Galatians 6:15"
+      },
+      "text": {
+        "ml": "ഒരു പുതിയ സൃഷ്ടിയാവുക എന്നതാണ് പരമപ്രധാനം.",
+        "en": "In Christ Jesus neither circumcision avails anything, nor uncircumcision: but a new creature."
+      },
+      "published": true
+    },
+    {
+      "id": "zephaniah-2-3",
+      "theme": "faith",
+      "ref": {
+        "ml": "സെഫാനിയാ 2:3",
+        "en": "Zephaniah 2:3"
+      },
+      "text": {
+        "ml": "കർത്താവിനെ അന്വേഷിക്കുവിൻ; നീതിയും വിനയവും അന്വേഷിക്കുവിൻ.",
+        "en": "Seek the Lord... seek the just, seek the meek."
+      },
+      "published": true
+    },
+    {
+      "id": "1thessalonians-4-7",
+      "theme": "repentance",
+      "ref": {
+        "ml": "1 തെസലോനിക്കാ 4:7",
+        "en": "1 Thessalonians 4:7"
+      },
+      "text": {
+        "ml": "വിശുദ്ധിയിലേക്കാണ് ദൈവം നമ്മെ വിളിച്ചിരിക്കുന്നത്.",
+        "en": "God has not called us unto uncleanness, but unto sanctification."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-43-4-a",
+      "theme": "love",
+      "ref": {
+        "ml": "ഏശയ്യാ 43:4",
+        "en": "Isaiah 43:4"
+      },
+      "text": {
+        "ml": "നീ എനിക്കു വിലപ്പെട്ടവനും ബഹുമാന്യനും പ്രിയങ്കരനുമാണ്.",
+        "en": "You became honorable in my eyes, you are glorious: I have loved you."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-40-8",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 40:8",
+        "en": "Isaiah 40:8"
+      },
+      "text": {
+        "ml": "പുല്ല് കരിയുന്നു പുഷ്പം വാടുന്നു നമ്മുടെ ദൈവത്തിന്റെ വചനമാകട്ടെ എന്നേക്കും നിലനിൽക്കും.",
+        "en": "The grass is withered, and the flower is fallen: but the word of our Lord endures for ever."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-19-9",
+      "theme": "faith",
+      "ref": {
+        "ml": "ലൂക്കാ 19:9",
+        "en": "Luke 19:9"
+      },
+      "text": {
+        "ml": "ഇന്ന് ഈ ഭവനത്തിന് രക്ഷ കൈവന്നിരിക്കുന്നു.",
+        "en": "This day is salvation come to this house."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-9-2",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 9:2",
+        "en": "Isaiah 9:2"
+      },
+      "text": {
+        "ml": "'കൂരിരുട്ടിന്റെ ദേശത്തു വസിച്ചിരുന്നവരുടെ മേൽ പ്രകാശം ഉദിച്ചു.'",
+        "en": "To them that dwelt in the region of the shadow of death, light is risen."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-11-35",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ലൂക്കാ 11:35",
+        "en": "Luke 11:35"
+      },
+      "text": {
+        "ml": "നിന്നിലുള്ള വെളിച്ചം ഇരുളാകാതിരിക്കാൻ സൂക്ഷിച്ചുകൊള്ളുവിൻ.",
+        "en": "Take heed therefore that the light which is in you be not darkness."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-18-27",
+      "theme": "faith",
+      "ref": {
+        "ml": "ലൂക്കാ 18:27",
+        "en": "Luke 18:27"
+      },
+      "text": {
+        "ml": "മനുഷ്യർക്ക് അസാധ്യമായത് ദൈവത്തിന് സാധ്യമാണ്.",
+        "en": "The things that are impossible with men are possible with God."
+      },
+      "published": true
+    },
+    {
+      "id": "tobit-4-16",
+      "theme": "love",
+      "ref": {
+        "ml": "തോബിത് 4:16",
+        "en": "Tobit 4:16"
+      },
+      "text": {
+        "ml": "ദാനധർമ്മം ചെയ്യുന്നതിൽ മടികാണിക്കരുത്.",
+        "en": "Do not be reluctant in giving alms."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "proverbs-25-9",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 25:9",
+        "en": "Proverbs 25:9"
+      },
+      "text": {
+        "ml": "അയൽക്കാരനുമായുള്ള തർക്കം പരസ്പരം പറഞ്ഞുതീർക്കുക",
+        "en": "Settle your dispute with your neighbour between yourselves."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "1peter-2-3",
+      "theme": "love",
+      "ref": {
+        "ml": "1 പത്രോസ് 2:3",
+        "en": "1 Peter 2:3"
+      },
+      "text": {
+        "ml": "കർത്താവ് നല്ലവനാണെന്ന് നിങ്ങൾ അനുഭവിച്ചറിഞ്ഞിട്ടുണ്ടല്ലോ",
+        "en": "You have tasted that the Lord is sweet."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-28-20",
+      "theme": "faith",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 28:20",
+        "en": "Proverbs 28:20"
+      },
+      "text": {
+        "ml": "വിശ്വസ്തൻ സമൃദ്ധമായി അനുഗ്രഹിക്കപ്പെടും.",
+        "en": "The faithful will be richly blessed."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "habakkuk-3-18",
+      "theme": "peace",
+      "ref": {
+        "ml": "ഹബക്കുക്ക് 3:18",
+        "en": "Habakkuk 3:18"
+      },
+      "text": {
+        "ml": "ഞാൻ കർത്താവിൽ ആനന്ദിക്കും. എന്റെ രക്ഷകനായ ദൈവത്തിൽ ഞാൻ സന്തോഷിക്കും.",
+        "en": "I will rejoice in the Lord: and I will joy in God my Jesus."
+      },
+      "published": true
+    },
+    {
+      "id": "1thessalonians-5-18",
+      "theme": "peace",
+      "ref": {
+        "ml": "1 തെസലോനിക്കാ 5:18",
+        "en": "1 Thessalonians 5:18"
+      },
+      "text": {
+        "ml": "എല്ലാ കാര്യങ്ങളിലും നന്ദി പ്രകാശിപ്പിക്കുവിൻ.",
+        "en": "In all things give thanks."
+      },
+      "published": true
+    },
+    {
+      "id": "2corinthians-6-2",
+      "theme": "faith",
+      "ref": {
+        "ml": "2 കോറിന്തോസ് 6:2",
+        "en": "2 Corinthians 6:2"
+      },
+      "text": {
+        "ml": "ഇതാ ഇപ്പോൾ രക്ഷയുടെ ദിവസം.",
+        "en": "Behold, now is the day of salvation."
+      },
+      "published": true
+    },
+    {
+      "id": "john-14-1",
+      "theme": "peace",
+      "ref": {
+        "ml": "യോഹന്നാൻ 14:1",
+        "en": "John 14:1"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ ഹൃദയം അസ്വസ്ഥമാകേണ്ട ദൈവത്തിൽ വിശ്വസിക്കുവിൻ.",
+        "en": "Let not your heart be troubled. You believe in God: believe also in me."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-4-10",
+      "theme": "protection",
+      "ref": {
+        "ml": "മിക്കാ 4:10",
+        "en": "Micah 4:10"
+      },
+      "text": {
+        "ml": "കർത്താവ് നിന്നെ ശത്രുകരങ്ങളിൽ നിന്ന് വീണ്ടെടുക്കും",
+        "en": "The Lord will redeem you out of the hand of your enemies."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-107-1",
+      "theme": "faith",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 107:1",
+        "en": "Psalm 107:1"
+      },
+      "text": {
+        "ml": "കർത്താവിന് നന്ദിപറയുവിൻ; അവിടുന്ന് നല്ലവനാണ്.",
+        "en": "Give glory to the Lord, for he is good."
+      },
+      "published": true
+    },
+    {
+      "id": "joshua-24-23",
+      "theme": "repentance",
+      "ref": {
+        "ml": "ജോഷ്വ 24:23",
+        "en": "Joshua 24:23"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ ഹൃദയം ദൈവമായ കർത്താവിങ്കലേക്ക് തിരിയട്ടെ.",
+        "en": "Incline your hearts to the Lord the God of Israel."
+      },
+      "published": true
+    },
+    {
+      "id": "joshua-1-9",
+      "theme": "protection",
+      "ref": {
+        "ml": "ജോഷ്വ 1:9",
+        "en": "Joshua 1:9"
+      },
+      "text": {
+        "ml": "ശക്തനും ധീരനുമായിരിക്കുക. നിന്റെ ദൈവമായ കർത്താവ് നീ പോകുന്നിടത്തെല്ലാം നിന്നോടുകൂടെയുണ്ടായിരിക്കും.",
+        "en": "Take courage, and be strong... because the Lord your God is with you in all things whatsoever you shall go to."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-121-7",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 121:7",
+        "en": "Psalm 121:7"
+      },
+      "text": {
+        "ml": "സകല തിന്മകളിൽനിന്നും കർത്താവ് നിന്നെ കാത്തുകൊള്ളും.",
+        "en": "The Lord keeps you from all evil."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-13-6",
+      "theme": "peace",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 13:6",
+        "en": "Psalm 13:6"
+      },
+      "text": {
+        "ml": "ഞാൻ കർത്താവിനെ പാടിസ്തുതിക്കും. അവിടുന്ന് എന്നോട് അതിരറ്റ കരുണ കാണിച്ചിരിക്കുന്നു.",
+        "en": "I will sing to the Lord, who gives me good things."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-12-32",
+      "theme": "peace",
+      "ref": {
+        "ml": "ലൂക്കാ 12:32",
+        "en": "Luke 12:32"
+      },
+      "text": {
+        "ml": "ചെറിയ അജഗണമേ, ഭയപ്പെടേണ്ട, നിങ്ങൾക്ക് രാജ്യം തരാൻ നിങ്ങളുടെ പിതാവ് പ്രസാദിച്ചിരിക്കുന്നു",
+        "en": "Fear not, little flock, for it has pleased your Father to give you a kingdom."
+      },
+      "published": true
+    },
+    {
+      "id": "judith-13-11",
+      "theme": "protection",
+      "ref": {
+        "ml": "യൂദിത്ത് 13:11",
+        "en": "Judith 13:11"
+      },
+      "text": {
+        "ml": "നമ്മുടെ ദൈവം എപ്പോഴും നമ്മോടുകൂടെയുണ്ട്.",
+        "en": "Our God is always with us."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "proverbs-9-10",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 9:10",
+        "en": "Proverbs 9:10"
+      },
+      "text": {
+        "ml": "ദൈവഭക്തിയാണ് ജ്ഞാനത്തിന്റെ ഉറവിടം.",
+        "en": "The fear of the Lord is the beginning of wisdom."
+      },
+      "published": true
+    },
+    {
+      "id": "deuteronomy-4-31",
+      "theme": "love",
+      "ref": {
+        "ml": "നിയമാവർത്തനം 4:31",
+        "en": "Deuteronomy 4:31"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ ദൈവമായ കർത്താവ് കരുണയുള്ള ദൈവമാണ്.",
+        "en": "The Lord your God is a merciful God."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-5-7",
+      "theme": "love",
+      "ref": {
+        "ml": "മത്തായി 5:7",
+        "en": "Matthew 5:7"
+      },
+      "text": {
+        "ml": "കരുണയുള്ളവർ ഭാഗ്യവാന്മാർ, എന്തെന്നാൽ അവർക്ക് കരുണ ലഭിക്കും.",
+        "en": "Blessed are the merciful: for they shall obtain mercy."
+      },
+      "published": true
+    },
+    {
+      "id": "titus-2-7",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "തീത്തോസ് 2:7",
+        "en": "Titus 2:7"
+      },
+      "text": {
+        "ml": "ആരും കുറ്റം പറയാത്തവിധം നിർദോഷമായ സംസാരരീതി പ്രകടമാക്കുക.",
+        "en": "The sound word that cannot be blamed: that he who is on the contrary part may be afraid, having no evil to say of us."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-7-2",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "മത്തായി 7:2",
+        "en": "Matthew 7:2"
+      },
+      "text": {
+        "ml": "ഏത് അളവുകൊണ്ട് നാം അളക്കുന്നുവോ ആ അളവുകൊണ്ട് നമുക്കും അളക്കപ്പെടും.",
+        "en": "With what measure you measure, it shall be measured to you again."
+      },
+      "published": true
+    },
+    {
+      "id": "1peter-3-9",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "1 പത്രോസ് 3:9",
+        "en": "1 Peter 3:9"
+      },
+      "text": {
+        "ml": "തിന്മയ്ക്ക് തിന്മയോ നിന്ദനത്തിന് നിന്ദനമോ പകരം കൊടുക്കാതെ അനുഗ്രഹിക്കുവിൻ.",
+        "en": "Not rendering evil for evil, nor railing for railing, but contrariwise, blessing."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-8-31",
+      "theme": "protection",
+      "ref": {
+        "ml": "റോമാ 8:31",
+        "en": "Romans 8:31"
+      },
+      "text": {
+        "ml": "ദൈവം നമ്മുടെ പക്ഷത്തെങ്കിൽ ആര് നമുക്ക് എതിരുനിൽക്കും.",
+        "en": "If God be for us, who is against us?"
+      },
+      "published": true
+    },
+    {
+      "id": "zephaniah-3-15",
+      "theme": "protection",
+      "ref": {
+        "ml": "സെഫാനിയാ 3:15",
+        "en": "Zephaniah 3:15"
+      },
+      "text": {
+        "ml": "നിനക്കെതിരെയുള്ള വിധി കർത്താവ് പിൻവലിച്ചിരിക്കുന്നു.",
+        "en": "The Lord has taken away your judgment."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-65-24",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 65:24",
+        "en": "Isaiah 65:24"
+      },
+      "text": {
+        "ml": "വിളിക്കുംമുമ്പേ ഞാനവർക്ക് ഉത്തരമരുളും പ്രാർത്ഥിച്ച് തീരുംമുമ്പേ ഞാനത് കേൾക്കും.",
+        "en": "Before they call, I will hear; as they are yet speaking, I will hear."
+      },
+      "published": true
+    },
+    {
+      "id": "1samuel-12-24",
+      "theme": "faith",
+      "ref": {
+        "ml": "1 സാമുവൽ 12:24",
+        "en": "1 Samuel 12:24"
+      },
+      "text": {
+        "ml": "അവിടുന്ന് നിങ്ങൾക്ക് ചെയ്ത മഹാകാര്യങ്ങൾ സ്മരിക്കുവിൻ.",
+        "en": "You have seen the great works which he has done among you."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-25-21",
+      "theme": "love",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 25:21",
+        "en": "Proverbs 25:21"
+      },
+      "text": {
+        "ml": "ശത്രുവിന് വിശക്കുമ്പോൾ ആഹാരവും ദാഹത്തിന് ജലവും കൊടുക്കുക.",
+        "en": "If your enemy be hungry, give him to eat: if he thirst, give him water to drink."
+      },
+      "published": true
+    },
+    {
+      "id": "ezekiel-36-27",
+      "theme": "faith",
+      "ref": {
+        "ml": "എസെക്കിയേൽ 36:27",
+        "en": "Ezekiel 36:27"
+      },
+      "text": {
+        "ml": "എന്റെ ആത്മാവിനെ ഞാൻ നിങ്ങളിൽ നിവേശിപ്പിക്കും.",
+        "en": "I will put my spirit in the midst of you."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-49-6",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 49:6",
+        "en": "Isaiah 49:6"
+      },
+      "text": {
+        "ml": "എന്റെ രക്ഷ ലോകാതിർത്തിവരെ എത്തുന്നതിന് ഞാൻ നിന്നെ ലോകത്തിന്റെ പ്രകാശമായി നൽകും.",
+        "en": "I have given you to be the light of the Gentiles, that you may be my salvation even to the farthest part of the earth."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-40-31",
+      "theme": "strength",
+      "ref": {
+        "ml": "ഏശയ്യാ 40:31",
+        "en": "Isaiah 40:31"
+      },
+      "text": {
+        "ml": "ദൈവത്തിൽ ആശ്രയിക്കുന്നവൻ വീണ്ടും ശക്തി പ്രാപിക്കും.",
+        "en": "They that hope in the Lord shall renew their strength."
+      },
+      "published": true
+    },
+    {
+      "id": "1samuel-16-7",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "1 സാമുവൽ 16:7",
+        "en": "1 Samuel 16:7"
+      },
+      "text": {
+        "ml": "മനുഷ്യൻ ബാഹ്യരൂപത്തിൽ ശ്രദ്ധിക്കുന്നു. കർത്താവാകട്ടെ ഹൃദയഭാവത്തിലും.",
+        "en": "Man sees those things that appear, but the Lord beholds the heart."
+      },
+      "published": true
+    },
+    {
+      "id": "1corinthians-5-6",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "1 കോറിന്തോസ് 5:6",
+        "en": "1 Corinthians 5:6"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ ആത്മപ്രശംസ ഒട്ടും നന്നല്ല.",
+        "en": "Your glorying is not good."
+      },
+      "published": true
+    },
+    {
+      "id": "2timothy-1-8",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "2 തിമോത്തേയോസ് 1:8",
+        "en": "2 Timothy 1:8"
+      },
+      "text": {
+        "ml": "നമ്മുടെ കർത്താവിന് സാക്ഷ്യം നൽകുന്നതിൽ നീ ലജ്ജിക്കരുത്.",
+        "en": "Be not therefore ashamed of the testimony of our Lord."
+      },
+      "published": true
+    },
+    {
+      "id": "ezekiel-36-26",
+      "theme": "faith",
+      "ref": {
+        "ml": "എസെക്കിയേൽ 36:26",
+        "en": "Ezekiel 36:26"
+      },
+      "text": {
+        "ml": "ഒരു പുതുചൈതന്യം നിങ്ങളിൽ ഞാൻ നിക്ഷേപിക്കും.",
+        "en": "I will put a new spirit within you."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-50-15",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 50:15",
+        "en": "Psalm 50:15"
+      },
+      "text": {
+        "ml": "അനർത്ഥകാലത്ത് എന്നെ വിളിച്ചപേക്ഷിക്കുക. ഞാൻ നിന്നെ മോചിപ്പിക്കാം.",
+        "en": "Call upon me in the day of trouble: I will deliver you."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-17-24",
+      "theme": "repentance",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 17:24",
+        "en": "Sirach 17:24"
+      },
+      "text": {
+        "ml": "പശ്ചാത്തപിക്കുന്നവർക്ക് തിരിച്ചുവരാൻ അവിടുന്ന് അവസരം നൽകും.",
+        "en": "To those who repent, he grants a way to return."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "micah-6-8-a",
+      "theme": "faith",
+      "ref": {
+        "ml": "മിക്കാ 6:8",
+        "en": "Micah 6:8"
+      },
+      "text": {
+        "ml": "നിന്റെ ദൈവത്തിന്റെ സന്നിധിയിൽ വിനീതനായി ചരിക്കുക.",
+        "en": "Walk solicitous with your God."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-12-19",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 12:19",
+        "en": "Proverbs 12:19"
+      },
+      "text": {
+        "ml": "സത്യസന്ധമായ വാക്ക് എന്നേക്കും നിലനിൽക്കുന്നു.",
+        "en": "The lip of truth shall be steadfast for ever."
+      },
+      "published": true
+    },
+    {
+      "id": "2chronicles-19-11",
+      "theme": "strength",
+      "ref": {
+        "ml": "2 ദിനവൃത്താന്തം 19:11",
+        "en": "2 Chronicles 19:11"
+      },
+      "text": {
+        "ml": "ധൈര്യപൂർവ്വം പ്രവർത്തിക്കുവിൻ കർത്താവ് നീതിമാന്റെ പക്ഷത്തായിരിക്കും.",
+        "en": "Take courage and do diligently, and the Lord will be with you in good things."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-34-18",
+      "theme": "peace",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 34:18",
+        "en": "Psalm 34:18"
+      },
+      "text": {
+        "ml": "ഹൃദയം നുറുങ്ങിയവർക്ക് കർത്താവ് സമീപസ്ഥനാണ്.",
+        "en": "The Lord is near unto them that are of a contrite heart."
+      },
+      "published": true
+    },
+    {
+      "id": "haggai-2-23",
+      "theme": "love",
+      "ref": {
+        "ml": "ഹഗ്ഗായി 2:23",
+        "en": "Haggai 2:23"
+      },
+      "text": {
+        "ml": "ഞാൻ നിന്നെ തെരഞ്ഞെടുത്തിരിക്കുന്നു.",
+        "en": "I have chosen you, says the Lord of hosts."
+      },
+      "published": true
+    },
+    {
+      "id": "deuteronomy-28-13",
+      "theme": "faith",
+      "ref": {
+        "ml": "നിയമാവർത്തനം 28:13",
+        "en": "Deuteronomy 28:13"
+      },
+      "text": {
+        "ml": "കർത്താവിന്റെ കല്പനകൾ ശ്രവിച്ച് അവ ശ്രദ്ധാപൂർവ്വം പാലിക്കുമെങ്കിൽ അഭിവൃദ്ധിയുണ്ടാകും.",
+        "en": "If you will hear the commandments of the Lord your God... and keep and do them, the Lord shall make you the head and not the tail."
+      },
+      "published": true
+    },
+    {
+      "id": "hebrews-12-15-a",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ഹെബ്രായർ 12:15",
+        "en": "Hebrews 12:15"
+      },
+      "text": {
+        "ml": "വിദ്വേഷത്തിന്റെ വേര് വളർന്ന് ഉപദ്രവം ചെയ്യാതിരിക്കാൻ സൂക്ഷിക്കുവിൻ.",
+        "en": "Looking diligently... lest any root of bitterness springing up do hinder."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-40-29",
+      "theme": "strength",
+      "ref": {
+        "ml": "ഏശയ്യാ 40:29",
+        "en": "Isaiah 40:29"
+      },
+      "text": {
+        "ml": "തളർന്നവന് അവിടുന്ന് ബലം നൽകുന്നു. ദുർബ്ബലന് അവിടുന്ന് ശക്തിപകരുന്നു.",
+        "en": "It is he that gives strength to the weary, and increases force and might to them that are not."
+      },
+      "published": true
+    },
+    {
+      "id": "1timothy-1-9",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "1 തിമോത്തേയോസ് 1:9",
+        "en": "1 Timothy 1:9"
+      },
+      "text": {
+        "ml": "നിയമം നിർമ്മിക്കപ്പെട്ടിരിക്കുന്നത് നീതിമാന്മാർക്കുവേണ്ടിയല്ല",
+        "en": "The law is not made for the just man."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-19-17",
+      "theme": "love",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 19:17",
+        "en": "Proverbs 19:17"
+      },
+      "text": {
+        "ml": "ദരിദ്രരോട് ദയ കാണിക്കുന്നവൻ കർത്താവിനാണ് കടം കൊടുക്കുന്നത്. അവിടുന്ന് ആ കടം വീട്ടും.",
+        "en": "He that has mercy on the poor, lends to the Lord: and he will repay him."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-2-3",
+      "theme": "strength",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 2:3",
+        "en": "Sirach 2:3"
+      },
+      "text": {
+        "ml": "അവിടുത്തോട് വിട്ടകലാതെ ചേർന്നുനിൽക്കുക, നിന്റെ അന്ത്യദിനങ്ങൾ ധന്യമായിരിക്കും.",
+        "en": "Join yourself to God, and endure, that your life may be increased in the latter end."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-5-8",
+      "theme": "love",
+      "ref": {
+        "ml": "റോമാ 5:8",
+        "en": "Romans 5:8"
+      },
+      "text": {
+        "ml": "നാം പാപികളായിരിക്കെ ക്രിസ്തു നമുക്കുവേണ്ടി മരിച്ചു.",
+        "en": "When as yet we were sinners... Christ died for us."
+      },
+      "published": true
+    },
+    {
+      "id": "james-4-8",
+      "theme": "faith",
+      "ref": {
+        "ml": "യാക്കോബ് 4:8",
+        "en": "James 4:8"
+      },
+      "text": {
+        "ml": "ദൈവത്തോട് ചേർന്നുനിൽക്കുക. അവിടുന്ന് നിങ്ങളോടും ചേർന്നു നിൽക്കും.",
+        "en": "Draw near to God: and he will draw near to you."
+      },
+      "published": true
+    },
+    {
+      "id": "james-3-6",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "യാക്കോബ് 3:6",
+        "en": "James 3:6"
+      },
+      "text": {
+        "ml": "നാവ് തീയാകുന്നു. അത് ദുഷ്ടതയുടെ ഒരു ലോകംതന്നെയാണ്.",
+        "en": "The tongue is a fire, a world of iniquity."
+      },
+      "published": true
+    },
+    {
+      "id": "ephesians-4-1",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "എഫേസോസ് 4:1",
+        "en": "Ephesians 4:1"
+      },
+      "text": {
+        "ml": "നിങ്ങൾക്ക് ലഭിച്ച വിളിക്ക് യോഗ്യമായ ജീവിതം നയിക്കുവിൻ.",
+        "en": "Walk worthy of the vocation in which you are called."
+      },
+      "published": true
+    },
+    {
+      "id": "jonah-1-6",
+      "theme": "faith",
+      "ref": {
+        "ml": "യോനാ 1:6",
+        "en": "Jonah 1:6"
+      },
+      "text": {
+        "ml": "എഴുന്നേറ്റ് നിന്റെ ദൈവത്തെ വിളിച്ചപേക്ഷിക്കുക.",
+        "en": "Rise up, call upon your God."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-18-12",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 18:12",
+        "en": "Proverbs 18:12"
+      },
+      "text": {
+        "ml": "ഗർവ്വം നാശത്തിന്റെ മുന്നോടിയാണ്; വിനയം ബഹുമതിയുടേയും.",
+        "en": "Before destruction, the heart of a man is exalted: and before he be glorified, it is humbled."
+      },
+      "published": true
+    },
+    {
+      "id": "nahum-1-2",
+      "theme": "repentance",
+      "ref": {
+        "ml": "നാഹും 1:2",
+        "en": "Nahum 1:2"
+      },
+      "text": {
+        "ml": "കർത്താവ് അസഹിഷ്ണുവായ ദൈവവും പ്രതികാരം ചെയ്യുന്നവനുമാണ്.",
+        "en": "The Lord is a jealous God, and a revenger."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-6-34",
+      "theme": "peace",
+      "ref": {
+        "ml": "മത്തായി 6:34",
+        "en": "Matthew 6:34"
+      },
+      "text": {
+        "ml": "നാളെയെക്കുറിച്ച് നിങ്ങൾ ആകുലരാകരുത്. നാളത്തെ ദിനം തന്നെ അതിനെക്കുറിച്ച് ആകുലപ്പെട്ടുകൊള്ളും.",
+        "en": "Be not therefore anxious for tomorrow; for tomorrow will be anxious for itself."
+      },
+      "published": true
+    },
+    {
+      "id": "john-15-5",
+      "theme": "faith",
+      "ref": {
+        "ml": "യോഹന്നാൻ 15:5",
+        "en": "John 15:5"
+      },
+      "text": {
+        "ml": "എന്നെക്കൂടാതെ നിങ്ങൾക്ക് ഒന്നും ചെയ്യാൻ കഴിയുകയില്ല.",
+        "en": "Without me you can do nothing."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-22-42",
+      "theme": "faith",
+      "ref": {
+        "ml": "ലൂക്കാ 22:42",
+        "en": "Luke 22:42"
+      },
+      "text": {
+        "ml": "എന്റെ ഹിതമല്ല അവിടുത്തെ ഹിതം നിറവേറട്ടെ.",
+        "en": "Not my will, but yours be done."
+      },
+      "published": true
+    },
+    {
+      "id": "2timothy-2-24",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "2 തിമോത്തേയോസ് 2:24",
+        "en": "2 Timothy 2:24"
+      },
+      "text": {
+        "ml": "കർത്താവിന്റെ ദാസൻ കലഹപ്രിയനായിരിക്കരുത്.",
+        "en": "The servant of the Lord must not wrangle."
+      },
+      "published": true
+    },
+    {
+      "id": "2chronicles-18-4",
+      "theme": "faith",
+      "ref": {
+        "ml": "2 ദിനവൃത്താന്തം 18:4",
+        "en": "2 Chronicles 18:4"
+      },
+      "text": {
+        "ml": "ആദ്യം കർത്താവിന്റെ ഹിതം തിരയാം.",
+        "en": "Inquire, I beseech you, at present the word of the Lord."
+      },
+      "published": true
+    },
+    {
+      "id": "john-6-37",
+      "theme": "love",
+      "ref": {
+        "ml": "യോഹന്നാൻ 6:37",
+        "en": "John 6:37"
+      },
+      "text": {
+        "ml": "എന്റെ അടുക്കൽ വരുന്നവനെ ഞാൻ ഒരിക്കലും തള്ളിക്കളയുകയില്ല.",
+        "en": "Him that comes to me, I will not cast out."
+      },
+      "published": true
+    },
+    {
+      "id": "1corinthians-1-9",
+      "theme": "faith",
+      "ref": {
+        "ml": "1 കോറിന്തോസ് 1:9",
+        "en": "1 Corinthians 1:9"
+      },
+      "text": {
+        "ml": "നിങ്ങളെ വിളിച്ച ദൈവം വിശ്വസ്തനാകുന്നു.",
+        "en": "God is faithful: by whom you are called."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-2-17",
+      "theme": "faith",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 2:17",
+        "en": "Sirach 2:17"
+      },
+      "text": {
+        "ml": "കർത്താവിനെ ഭയപ്പെടുന്നവർ ഹൃദയം ഒരുക്കിവയ്ക്കും.",
+        "en": "They that fear the Lord will prepare their hearts."
+      },
+      "published": true
+    },
+    {
+      "id": "leviticus-19-13",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ലേവ്യർ 19:13",
+        "en": "Leviticus 19:13"
+      },
+      "text": {
+        "ml": "കൂലിക്കാർക്ക് വേതനം നൽകാൻ പിറ്റേന്ന് രാവിലെവരെ കാത്തിരിക്കരുത്.",
+        "en": "The wages of him that has been hired by you shall not abide with you until the morning."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-2-4",
+      "theme": "strength",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 2:4",
+        "en": "Sirach 2:4"
+      },
+      "text": {
+        "ml": "ഞെരുക്കുന്ന ദൗർഭാഗ്യങ്ങളിൽ ശാന്തത വെടിയരുത്.",
+        "en": "In your sorrow endure, and in your humiliation keep patience."
+      },
+      "published": true
+    },
+    {
+      "id": "wisdom-3-9-a",
+      "theme": "love",
+      "ref": {
+        "ml": "ജ്ഞാനം 3:9",
+        "en": "Wisdom 3:9"
+      },
+      "text": {
+        "ml": "വിശ്വസ്തർ അവിടുത്തെ സ്നേഹത്തിൽ വസിക്കും.",
+        "en": "They that are faithful in love shall rest in him."
+      },
+      "published": true
+    },
+    {
+      "id": "1thessalonians-4-3",
+      "theme": "repentance",
+      "ref": {
+        "ml": "1 തെസലോനിക്കാ 4:3",
+        "en": "1 Thessalonians 4:3"
+      },
+      "text": {
+        "ml": "ഇതാണ് ദൈവഹിതം, നിങ്ങളുടെ വിശുദ്ധീകരണം, അസന്മാർഗ്ഗികതയിൽനിന്നും നിങ്ങൾ ഒഴിഞ്ഞുമാറണം.",
+        "en": "This is the will of God, your sanctification: that you should abstain from fornication."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-18-20",
+      "theme": "faith",
+      "ref": {
+        "ml": "മത്തായി 18:20",
+        "en": "Matthew 18:20"
+      },
+      "text": {
+        "ml": "രണ്ടോ മൂന്നോ പേർ എന്റെ നാമത്തിൽ ഒരുമിച്ചു കൂടുന്നിടത്ത് ഞാനുണ്ടായിരിക്കും.",
+        "en": "Where there are two or three gathered together in my name, there am I in the midst of them."
+      },
+      "published": true
+    },
+    {
+      "id": "tobit-4-5",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "തോബിത് 4:5",
+        "en": "Tobit 4:5"
+      },
+      "text": {
+        "ml": "ജീവിതകാലംമുഴുവൻ നിന്റെ പ്രവൃത്തികൾ നീതിനിഷ്ഠമായിരിക്കട്ടെ.",
+        "en": "All the days of your life, let your deeds be upright."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "psalm-56-11",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 56:11",
+        "en": "Psalm 56:11"
+      },
+      "text": {
+        "ml": "കർത്താവിൽ നിർഭയനായി ഞാൻ ആശ്രയിക്കും.",
+        "en": "In God have I hoped, I will not fear."
+      },
+      "published": true
+    },
+    {
+      "id": "zechariah-7-10",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സഖറിയാ 7:10",
+        "en": "Zechariah 7:10"
+      },
+      "text": {
+        "ml": "ആരും തന്റെ സഹോദരനെതിരെ തിന്മ നിരൂപിക്കരുത്.",
+        "en": "Let not a man devise evil in his heart against his brother."
+      },
+      "published": true
+    },
+    {
+      "id": "john-15-16",
+      "theme": "love",
+      "ref": {
+        "ml": "യോഹന്നാൻ 15:16",
+        "en": "John 15:16"
+      },
+      "text": {
+        "ml": "നിങ്ങൾ എന്നെ തിരഞ്ഞെടുക്കുകയല്ല ഞാൻ നിങ്ങളെ തിരഞ്ഞെടുക്കുകയാണ് ചെയ്യുന്നത്.",
+        "en": "You have not chosen me: but I have chosen you."
+      },
+      "published": true
+    },
+    {
+      "id": "zephaniah-1-14",
+      "theme": "repentance",
+      "ref": {
+        "ml": "സെഫാനിയാ 1:14",
+        "en": "Zephaniah 1:14"
+      },
+      "text": {
+        "ml": "കർത്താവിന്റെ മഹാദിനം അടുത്തിരിക്കുന്നു.",
+        "en": "The great day of the Lord is near."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-15-1",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "റോമാ 15:1",
+        "en": "Romans 15:1"
+      },
+      "text": {
+        "ml": "ബലമുള്ളവരായ നാം ബലഹീനരുടെ പോരായ്മകൾ സഹിക്കുകയാണ് വേണ്ടത്.",
+        "en": "We that are stronger ought to bear the infirmities of the weak."
+      },
+      "published": true
+    },
+    {
+      "id": "jonah-2-9",
+      "theme": "faith",
+      "ref": {
+        "ml": "യോനാ 2:9",
+        "en": "Jonah 2:9"
+      },
+      "text": {
+        "ml": "കർത്താവിൽനിന്നാണ് രക്ഷ",
+        "en": "Salvation is from the Lord."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "isaiah-55-3",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 55:3",
+        "en": "Isaiah 55:3"
+      },
+      "text": {
+        "ml": "എന്റെ അടുക്കൽവന്ന് എന്റെ വാക്കുകൾ കേൾക്കുവിൻ. നിങ്ങൾ ജീവിക്കും.",
+        "en": "Incline your ear and come to me: hear and your soul shall live."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-6-36",
+      "theme": "love",
+      "ref": {
+        "ml": "ലൂക്കാ 6:36",
+        "en": "Luke 6:36"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ പിതാവ് കരുണയുള്ളവനായിരിക്കുന്നതുപോലെ നിങ്ങളും കരുണയുള്ളവരായിരിക്കുവിൻ.",
+        "en": "Be therefore merciful, as your Father also is merciful."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-28-4",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 28:4",
+        "en": "Proverbs 28:4"
+      },
+      "text": {
+        "ml": "നിയമം ലംഘിക്കുന്നവർ ദുഷ്ടരെ പ്രശംസിക്കുന്നു.",
+        "en": "They that forsake the law, praise the wicked man."
+      },
+      "published": true
+    },
+    {
+      "id": "tobit-4-7",
+      "theme": "love",
+      "ref": {
+        "ml": "തോബിത് 4:7",
+        "en": "Tobit 4:7"
+      },
+      "text": {
+        "ml": "പാവപ്പെട്ടവനിൽനിന്ന് മുഖംതിരിച്ചു കളയരുത്.",
+        "en": "Turn not away your face from any poor person."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-7-18",
+      "theme": "love",
+      "ref": {
+        "ml": "മിക്കാ 7:18",
+        "en": "Micah 7:18"
+      },
+      "text": {
+        "ml": "അവിടുന്ന് തന്റെ കോപം എന്നേക്കുമായി വച്ചുപുലർത്തുന്നില്ല",
+        "en": "He will send his fury in no more, because he delights in mercy."
+      },
+      "published": true
+    },
+    {
+      "id": "1corinthians-7-19",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "1 കോറിന്തോസ് 7:19",
+        "en": "1 Corinthians 7:19"
+      },
+      "text": {
+        "ml": "പരിച്ഛേദിതനോ അപരിച്ഛേദിതനോ എന്ന് നോക്കേണ്ട; ദൈവകല്പനകൾ പാലിക്കുക എന്നതാണ് സർവ്വപ്രധാനം.",
+        "en": "Circumcision is nothing and uncircumcision is nothing: but the observance of the commandments of God."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-20-1",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 20:1",
+        "en": "Proverbs 20:1"
+      },
+      "text": {
+        "ml": "വീഞ്ഞ് പരിഹാസകനും മദ്യം കലഹക്കാരനുമാണ്. അവയ്ക്കടിമപ്പെടുന്നവന് വിവേകമില്ല.",
+        "en": "Wine is a luxurious thing, and drunkenness riotous: whoever is delighted therewith, shall not be wise."
+      },
+      "published": true
+    },
+    {
+      "id": "2thessalonians-3-13",
+      "theme": "strength",
+      "ref": {
+        "ml": "2 തെസലോനിക്കാ 3:13",
+        "en": "2 Thessalonians 3:13"
+      },
+      "text": {
+        "ml": "നന്മ പ്രവർത്തിക്കുന്നതിൽ നിങ്ങൾ നിരുത്സാഹരാകരുത്.",
+        "en": "Be not weary in well doing."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-38-9",
+      "theme": "healing",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 38:9",
+        "en": "Sirach 38:9"
+      },
+      "text": {
+        "ml": "രോഗംവരുമ്പോൾ ഉദാസീനനാകാതെ കർത്താവിനോട് പ്രാർത്ഥിക്കുക അവിടുന്ന് നിന്നെ സുഖപ്പെടുത്തും.",
+        "en": "In your sickness neglect not yourself, but pray to the Lord, and he shall heal you."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-5-44",
+      "theme": "love",
+      "ref": {
+        "ml": "മത്തായി 5:44",
+        "en": "Matthew 5:44"
+      },
+      "text": {
+        "ml": "ശത്രുക്കളെ സ്നേഹിക്കുവിൻ; നിങ്ങളെ പീഡിപ്പിക്കുന്നവർക്കു വേണ്ടി പ്രാർത്ഥിക്കുവിൻ.",
+        "en": "Love your enemies... and pray for them that persecute and calumniate you."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-21-31",
+      "theme": "protection",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 21:31",
+        "en": "Proverbs 21:31"
+      },
+      "text": {
+        "ml": "വിജയം നൽകുന്നത് കർത്താവാണ്.",
+        "en": "The Lord gives safety."
+      },
+      "published": true
+    },
+    {
+      "id": "ezekiel-36-28",
+      "theme": "love",
+      "ref": {
+        "ml": "എസെക്കിയേൽ 36:28",
+        "en": "Ezekiel 36:28"
+      },
+      "text": {
+        "ml": "നിങ്ങൾ എന്റെ ജനവും ഞാൻ നിങ്ങളുടെ ദൈവവുമായിരിക്കും.",
+        "en": "You shall be my people, and I will be your God."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-55-6",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 55:6",
+        "en": "Isaiah 55:6"
+      },
+      "text": {
+        "ml": "കർത്താവിനെ കണ്ടെത്താൻ കഴിയുന്ന ഇപ്പോൾത്തന്നെ അവിടുത്തെ അന്വേഷിക്കുവിൻ.",
+        "en": "Seek the Lord, while he may be found."
+      },
+      "published": true
+    },
+    {
+      "id": "revelation-21-4-a",
+      "theme": "peace",
+      "ref": {
+        "ml": "വെളിപാട് 21:4",
+        "en": "Revelation 21:4"
+      },
+      "text": {
+        "ml": "അവിടുന്നു അവരുടെ മിഴികളിൽ നിന്ന് കണ്ണീർ തുടച്ചുനീക്കും.",
+        "en": "God shall wipe away all tears from their eyes."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-26-4",
+      "theme": "protection",
+      "ref": {
+        "ml": "ഏശയ്യാ 26:4",
+        "en": "Isaiah 26:4"
+      },
+      "text": {
+        "ml": "ദൈവമായ കർത്താവ് ശാശ്വതമായ അഭയശിലയാണ്.",
+        "en": "The Lord God is an everlasting rock of refuge."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "leviticus-19-35",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ലേവ്യർ 19:35",
+        "en": "Leviticus 19:35"
+      },
+      "text": {
+        "ml": "വിധിയിലും അളവിലും തൂക്കത്തിലും നിങ്ങൾ അനീതി പ്രവർത്തിക്കരുത്.",
+        "en": "Do not any unjust thing in judgment, in rule, in weight, or in measure."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-2-2",
+      "theme": "strength",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 2:2",
+        "en": "Sirach 2:2"
+      },
+      "text": {
+        "ml": "നിന്റെ ഹൃദയം അവക്രവും അചഞ്ചലവുമായിരിക്കട്ടെ.",
+        "en": "Humble your heart, and endure."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-6-8-b",
+      "theme": "love",
+      "ref": {
+        "ml": "മിക്കാ 6:8",
+        "en": "Micah 6:8"
+      },
+      "text": {
+        "ml": "നീതി പ്രവർത്തിക്കുക കരുണ കാണിക്കുക.",
+        "en": "Do judgment, and love mercy."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-19-1",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 19:1",
+        "en": "Sirach 19:1"
+      },
+      "text": {
+        "ml": "ചെറിയ കാര്യങ്ങൾ അവഗണിക്കുന്നവൻ അല്പാല്പമായി നശിക്കും.",
+        "en": "He that despises small things, shall fall by little and little."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-54-10",
+      "theme": "love",
+      "ref": {
+        "ml": "ഏശയ്യാ 54:10",
+        "en": "Isaiah 54:10"
+      },
+      "text": {
+        "ml": "എന്റെ അചഞ്ചലമായ സ്നേഹം നിന്നെ പിരിയുകയില്ല",
+        "en": "My mercy shall not depart from you."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-16-1",
+      "theme": "faith",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 16:1",
+        "en": "Proverbs 16:1"
+      },
+      "text": {
+        "ml": "മനുഷ്യൻ പദ്ധതികൾ വിഭാവനം ചെയ്യുന്നു. അന്തിമമായ തീരുമാനം കർത്താവിന്റേതത്രേ",
+        "en": "A person makes plans, but the final decision belongs to the Lord."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "deuteronomy-22-3",
+      "theme": "love",
+      "ref": {
+        "ml": "നിയമാവർത്തനം 22:3",
+        "en": "Deuteronomy 22:3"
+      },
+      "text": {
+        "ml": "ഒരിക്കലും സഹായം നിരസിക്കരുത്.",
+        "en": "Never refuse to help."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "2timothy-2-16",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "2 തിമോത്തേയോസ് 2:16",
+        "en": "2 Timothy 2:16"
+      },
+      "text": {
+        "ml": "ലൗകികമായ വ്യർത്ഥഭാഷണം ഒഴിവാക്കുക",
+        "en": "Shun profane and vain babblings."
+      },
+      "published": true
+    },
+    {
+      "id": "genesis-28-15",
+      "theme": "protection",
+      "ref": {
+        "ml": "ഉത്പത്തി 28:15",
+        "en": "Genesis 28:15"
+      },
+      "text": {
+        "ml": "ഇതാ, ഞാൻ നിന്നോടു കൂടെയുണ്ട്. നീ പോകുന്നിടത്തെല്ലാം ഞാൻ നിന്നെ കാത്തുരക്ഷിക്കും.",
+        "en": "I will be your keeper wherever you go."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-20-3",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 20:3",
+        "en": "Proverbs 20:3"
+      },
+      "text": {
+        "ml": "ഭോഷന്മാർ ശണ്ഠകൂടിക്കൊണ്ടിരിക്കും.",
+        "en": "Fools are always quarrelling."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "psalm-145-13",
+      "theme": "faith",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 145:13",
+        "en": "Psalm 145:13"
+      },
+      "text": {
+        "ml": "കർത്താവ് വാഗ്ദാനങ്ങളിൽ വിശ്വസ്തനും പ്രവൃത്തികളിൽ കാരുണ്യവാനുമാണ്.",
+        "en": "The Lord is faithful in all his words: and holy in all his works."
+      },
+      "published": true
+    },
+    {
+      "id": "1john-3-15",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "1 യോഹന്നാൻ 3:15",
+        "en": "1 John 3:15"
+      },
+      "text": {
+        "ml": "സഹോദരനെ വെറുക്കുന്നവൻ കൊലപാതകിയാണ്.",
+        "en": "Whoever hates his brother is a murderer."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-8-19",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 8:19",
+        "en": "Sirach 8:19"
+      },
+      "text": {
+        "ml": "എല്ലാവരോടും എല്ലാം തുറന്നുപറയരുത്. അത് നിന്റെ സന്തോഷം കെടുത്തിയേക്കും.",
+        "en": "Open not your heart to every man: lest he repay you with an evil turn."
+      },
+      "published": true
+    },
+    {
+      "id": "ezekiel-3-27",
+      "theme": "faith",
+      "ref": {
+        "ml": "എസെക്കിയേൽ 3:27",
+        "en": "Ezekiel 3:27"
+      },
+      "text": {
+        "ml": "ഞാൻ നിന്നോട് സംസാരിക്കുമ്പോൾ നിന്റെ അധരങ്ങൾ തുറക്കപ്പെടും.",
+        "en": "When I shall speak to you, I will open your mouth."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-16-20",
+      "theme": "faith",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 16:20",
+        "en": "Proverbs 16:20"
+      },
+      "text": {
+        "ml": "ദൈവവചനം ആദരിക്കുന്നവൻ ഉത്കർഷം നേടും. കർത്താവിൽ ആശ്രയിക്കുന്നവൻ ഭാഗ്യവാൻ.",
+        "en": "The learned in word shall find good things: and he that trusts in the Lord is blessed."
+      },
+      "published": true
+    },
+    {
+      "id": "jeremiah-1-5",
+      "theme": "love",
+      "ref": {
+        "ml": "ജറെമിയാ 1:5",
+        "en": "Jeremiah 1:5"
+      },
+      "text": {
+        "ml": "മാതാവിന്റെ ഉദരത്തിൽ നിനക്കു രൂപം നൽകുന്നതിനുമുമ്പേ ഞാൻ നിന്നെ അറിഞ്ഞു.",
+        "en": "Before I formed you in the womb of your mother, I knew you."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-7-1",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "മത്തായി 7:1",
+        "en": "Matthew 7:1"
+      },
+      "text": {
+        "ml": "വിധിക്കപ്പെടാതിരിക്കണമെങ്കിൽ നിങ്ങൾ വിധിക്കരുത്.",
+        "en": "Judge not, that you may not be judged."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-43-1",
+      "theme": "protection",
+      "ref": {
+        "ml": "ഏശയ്യാ 43:1",
+        "en": "Isaiah 43:1"
+      },
+      "text": {
+        "ml": "ഭയപ്പെടേണ്ട ഞാൻ നിന്നെ രക്ഷിച്ചിരിക്കുന്നു നിന്നെ പേരു ചൊല്ലി വിളിച്ചിരിക്കുന്നു നീ എന്റേതാണ്.",
+        "en": "Fear not, for I have redeemed you, and called you by your name: you are mine."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-40-10",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 40:10",
+        "en": "Isaiah 40:10"
+      },
+      "text": {
+        "ml": "സമ്മാനം അവിടുത്തെ കയ്യിലുണ്ട്. പ്രതിഫലവും അവിടുത്തെ മുമ്പിലുണ്ട്.",
+        "en": "His reward is with him and his work is before him."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-13-1",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 13:1",
+        "en": "Proverbs 13:1"
+      },
+      "text": {
+        "ml": "വിവേകമുള്ള മകൻ പിതാവിന്റെ ഉപദേശം കേൾക്കുന്നു",
+        "en": "A wise son hears the doctrine of his father."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-27-14-b",
+      "theme": "strength",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 27:14",
+        "en": "Psalm 27:14"
+      },
+      "text": {
+        "ml": "ദുർബ്ബലരാകാതെ കർത്താവിന് വേണ്ടികാത്തിരിക്കുവിൻ.",
+        "en": "Let your heart take courage, and wait for the Lord."
+      },
+      "published": true
+    },
+    {
+      "id": "ezekiel-36-29",
+      "theme": "repentance",
+      "ref": {
+        "ml": "എസെക്കിയേൽ 36:29",
+        "en": "Ezekiel 36:29"
+      },
+      "text": {
+        "ml": "എല്ലാ അശുദ്ധിയിൽനിന്നും നിങ്ങളെ ഞാൻ മോചിപ്പിക്കും.",
+        "en": "I will save you from all your uncleannesses."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-3-4",
+      "theme": "repentance",
+      "ref": {
+        "ml": "മിക്കാ 3:4",
+        "en": "Micah 3:4"
+      },
+      "text": {
+        "ml": "അവരുടെ ദുഷ്കർമ്മങ്ങൾ നിമിത്തം അവിടുന്ന് അവരിൽ നിന്ന് മുഖം മറച്ചുകളയും.",
+        "en": "He will hide his face from them at that time, as they have behaved wickedly in their devices."
+      },
+      "published": true
+    },
+    {
+      "id": "john-15-9",
+      "theme": "love",
+      "ref": {
+        "ml": "യോഹന്നാൻ 15:9",
+        "en": "John 15:9"
+      },
+      "text": {
+        "ml": "നിങ്ങൾ എന്റെ സ്നേഹത്തിൽ നിലനിൽക്കുവിൻ.",
+        "en": "Abide in my love."
+      },
+      "published": true
+    },
+    {
+      "id": "1john-5-12",
+      "theme": "faith",
+      "ref": {
+        "ml": "1 യോഹന്നാൻ 5:12",
+        "en": "1 John 5:12"
+      },
+      "text": {
+        "ml": "ദൈവപുത്രനെ സ്വന്തമാക്കാത്തവന് ജീവനില്ല",
+        "en": "He that has not the Son has not life."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-2-6",
+      "theme": "faith",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 2:6",
+        "en": "Sirach 2:6"
+      },
+      "text": {
+        "ml": "കർത്താവിൽ ആശ്രയിക്കുക. അവിടുന്ന് നിന്നെ സഹായിക്കും.",
+        "en": "Believe God, and he will recover you."
+      },
+      "published": true
+    },
+    {
+      "id": "hosea-12-6",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഹോസിയാ 12:6",
+        "en": "Hosea 12:6"
+      },
+      "text": {
+        "ml": "നീതിയും സ്നേഹവും മുറുകെ പിടിക്കുക. നിന്റെ ദൈവത്തിനുവേണ്ടി നിരന്തരം കാത്തിരിക്കുക.",
+        "en": "Keep mercy and judgment, and hope in your God always."
+      },
+      "published": true
+    },
+    {
+      "id": "1samuel-26-9",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "1 സാമുവൽ 26:9",
+        "en": "1 Samuel 26:9"
+      },
+      "text": {
+        "ml": "കർത്താവിന്റെ അഭിഷിക്തനെതിരെ കരമുയർത്തിയിട്ട് നിർദ്ദോഷനായിരിക്കാൻ ആർക്കുകഴിയും.",
+        "en": "Who shall put forth his hand against the Lord's anointed, and shall be guiltless?"
+      },
+      "published": true
+    },
+    {
+      "id": "romans-10-15",
+      "theme": "faith",
+      "ref": {
+        "ml": "റോമാ 10:15",
+        "en": "Romans 10:15"
+      },
+      "text": {
+        "ml": "സുവിശേഷം പ്രസംഗിക്കുന്നവരുടെ പാദങ്ങൾ എത്ര സുന്ദരമാണ്.",
+        "en": "How beautiful are the feet of them that preach the gospel of peace."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-5-11",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 5:11",
+        "en": "Sirach 5:11"
+      },
+      "text": {
+        "ml": "കേൾക്കുന്നതിൽ ജാഗ്രതയും മറുപടി പറയുന്നതിൽ അവധാനവും കാട്ടുക.",
+        "en": "Be meek to hear the word, that you may understand: and return a true answer with wisdom."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-60-19",
+      "theme": "peace",
+      "ref": {
+        "ml": "ഏശയ്യാ 60:19",
+        "en": "Isaiah 60:19"
+      },
+      "text": {
+        "ml": "കർത്താവായിരിക്കും നിന്റെ നിത്യമായ പ്രകാശം.",
+        "en": "The Lord shall be unto you for an everlasting light."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-8-17",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ലൂക്കാ 8:17",
+        "en": "Luke 8:17"
+      },
+      "text": {
+        "ml": "മറഞ്ഞിരിക്കുന്നതൊന്നും വെളിപ്പെടാതിരിക്കുകയില്ല.",
+        "en": "There is not anything secret that shall not be made manifest."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-6-13",
+      "theme": "repentance",
+      "ref": {
+        "ml": "റോമാ 6:13",
+        "en": "Romans 6:13"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ അവയവങ്ങളെ അനീതിയുടെ ഉപകരണങ്ങളായി പാപത്തിന് സമർപ്പിക്കരുത്.",
+        "en": "Neither yield your members as instruments of iniquity unto sin."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-24-42",
+      "theme": "faith",
+      "ref": {
+        "ml": "മത്തായി 24:42",
+        "en": "Matthew 24:42"
+      },
+      "text": {
+        "ml": "കർത്താവ് ഏതുദിവസം വരുമെന്നറിയാത്തതുകൊണ്ട് നിങ്ങൾ ജാഗരൂകരായിരിക്കുവിൻ.",
+        "en": "Watch therefore, because you know not what hour your Lord will come."
+      },
+      "published": true
+    },
+    {
+      "id": "colossians-4-2",
+      "theme": "faith",
+      "ref": {
+        "ml": "കൊളോസോസ് 4:2",
+        "en": "Colossians 4:2"
+      },
+      "text": {
+        "ml": "കൃതജ്ഞതാനിർഭരരായി ഉണർന്നിരുന്ന് നിരന്തരം പ്രാർത്ഥിക്കുവിൻ.",
+        "en": "Be instant in prayer: watching in it with thanksgiving."
+      },
+      "published": true
+    },
+    {
+      "id": "leviticus-19-26",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ലേവ്യർ 19:26",
+        "en": "Leviticus 19:26"
+      },
+      "text": {
+        "ml": "ശകുനം നോക്കുകയോ ആഭിചാരം നടത്തുകയോ അരുത്.",
+        "en": "You shall not divine nor observe dreams."
+      },
+      "published": true
+    },
+    {
+      "id": "mark-16-15",
+      "theme": "faith",
+      "ref": {
+        "ml": "മർക്കോസ് 16:15",
+        "en": "Mark 16:15"
+      },
+      "text": {
+        "ml": "നിങ്ങൾ ലോകമെങ്ങും പോയി എല്ലാ സൃഷ്ടികളോടും സുവിശേഷം പ്രസംഗിക്കുവിൻ.",
+        "en": "Go into the whole world and preach the gospel to every creature."
+      },
+      "published": true
+    },
+    {
+      "id": "1corinthians-2-15",
+      "theme": "faith",
+      "ref": {
+        "ml": "1 കോറിന്തോസ് 2:15",
+        "en": "1 Corinthians 2:15"
+      },
+      "text": {
+        "ml": "ആധ്യാത്മിക മനുഷ്യൻ എല്ലാകാര്യങ്ങളും വിവേചിച്ചറിയുന്നു",
+        "en": "The spiritual man judges all things."
+      },
+      "published": true
+    },
+    {
+      "id": "2corinthians-4-17",
+      "theme": "strength",
+      "ref": {
+        "ml": "2 കോറിന്തോസ് 4:17",
+        "en": "2 Corinthians 4:17"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ ക്ലേശങ്ങൾ നിസ്സാരവും ക്ഷണികവുമാണ്. അവയുടെ ഫലമോ അനുപമമായ മഹത്വവും.",
+        "en": "That which is at present momentary and light of our tribulation works for us above measure, exceedingly an eternal weight of glory."
+      },
+      "published": true
+    },
+    {
+      "id": "acts-26-15",
+      "theme": "faith",
+      "ref": {
+        "ml": "അപ്പസ്തോലന്മാരുടെ നടപടികൾ 26:15",
+        "en": "Acts 26:15"
+      },
+      "text": {
+        "ml": "നീ പീഡിപ്പിക്കുന്ന യേശുവാണ് ഞാൻ.",
+        "en": "I am Jesus whom you persecute."
+      },
+      "published": true
+    },
+    {
+      "id": "john-5-14",
+      "theme": "repentance",
+      "ref": {
+        "ml": "യോഹന്നാൻ 5:14",
+        "en": "John 5:14"
+      },
+      "text": {
+        "ml": "കൂടുതൽ മോശമായതൊന്നും സംഭവിക്കാതിരിക്കാൻ മേലിൽ പാപം ചെയ്യരുത്.",
+        "en": "Sin no more, lest some worse thing happen to you."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-5-15",
+      "theme": "repentance",
+      "ref": {
+        "ml": "മിക്കാ 5:15",
+        "en": "Micah 5:15"
+      },
+      "text": {
+        "ml": "എന്നെ അനുസരിക്കാത്ത ജനതകളോട് ഞാൻ ക്രോധത്തോടെ പ്രതികാരം ചെയ്യും.",
+        "en": "I will execute vengeance in wrath, and in indignation, among all the nations that have not given ear."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-5-12",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 5:12",
+        "en": "Sirach 5:12"
+      },
+      "text": {
+        "ml": "അറിയാമെങ്കിലേ പറയാവൂ ഇല്ലെങ്കിൽ വാ തുറക്കരുത്.",
+        "en": "If you have understanding, answer your neighbor: but if not, let your hand be upon your mouth."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-23-8",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 23:8",
+        "en": "Sirach 23:8"
+      },
+      "text": {
+        "ml": "പാപിയുടെ പതനത്തിന് കാരണം അവന്റെ ചുണ്ടുകളാണ്.",
+        "en": "The proud and the evil speakers shall fall thereby."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-7-21",
+      "theme": "faith",
+      "ref": {
+        "ml": "മത്തായി 7:21",
+        "en": "Matthew 7:21"
+      },
+      "text": {
+        "ml": "പിതാവിന്റെ ഇഷ്ടം നിറവേറ്റുന്നവനാണ് സ്വർഗ്ഗരാജ്യത്തിൽ പ്രവേശിക്കുന്നത്.",
+        "en": "He that does the will of my Father who is in heaven, he shall enter into the kingdom of heaven."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-2-3",
+      "theme": "repentance",
+      "ref": {
+        "ml": "മിക്കാ 2:3",
+        "en": "Micah 2:3"
+      },
+      "text": {
+        "ml": "ഈ ഭവനത്തിനെതിരെ ഞാൻ അനർത്ഥങ്ങൾ ഒരുക്കിയിരിക്കുന്നു.",
+        "en": "Behold I devise an evil against this family."
+      },
+      "published": true
+    },
+    {
+      "id": "leviticus-26-11-12",
+      "theme": "protection",
+      "ref": {
+        "ml": "ലേവ്യർ 26:11-12",
+        "en": "Leviticus 26:11-12"
+      },
+      "text": {
+        "ml": "ഞാൻ നിങ്ങളെ ഉപേക്ഷിക്കുകയില്ല; ഞാൻ നിങ്ങളുടെ ഇടയിൽ സഞ്ചരിക്കും.",
+        "en": "My soul shall not cast you off. I will walk among you."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-24-13",
+      "theme": "strength",
+      "ref": {
+        "ml": "മത്തായി 24:13",
+        "en": "Matthew 24:13"
+      },
+      "text": {
+        "ml": "അവസാനം വരെ സഹിച്ചുനിൽക്കുന്നവൻ രക്ഷിക്കപ്പെടും.",
+        "en": "He that shall persevere to the end, he shall be saved."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-7-10",
+      "theme": "faith",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 7:10",
+        "en": "Sirach 7:10"
+      },
+      "text": {
+        "ml": "പ്രാർത്ഥനയിൽ മടുപ്പുതോന്നരുത്.",
+        "en": "Neglect not to pray."
+      },
+      "published": true
+    },
+    {
+      "id": "tobit-4-3",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "തോബിത് 4:3",
+        "en": "Tobit 4:3"
+      },
+      "text": {
+        "ml": "അമ്മയുടെ ഹിതം നോക്കണം അവളെ ഒരിക്കലും വേദനിപ്പിക്കരുത്.",
+        "en": "You shall honor your mother all the days of her life."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-8-14",
+      "theme": "faith",
+      "ref": {
+        "ml": "റോമാ 8:14",
+        "en": "Romans 8:14"
+      },
+      "text": {
+        "ml": "ദൈവാത്മാവിനാൽ നയിക്കപ്പെടുന്നവരെല്ലാം ദൈവത്തിന്റെ പുത്രന്മാരാണ്.",
+        "en": "Whoever are led by the Spirit of God, they are the sons of God."
+      },
+      "published": true
+    },
+    {
+      "id": "jeremiah-29-11",
+      "theme": "peace",
+      "ref": {
+        "ml": "ജറെമിയാ 29:11",
+        "en": "Jeremiah 29:11"
+      },
+      "text": {
+        "ml": "നിങ്ങളെക്കുറിച്ചുള്ള പദ്ധതി എന്റെ മനസ്സിലുണ്ട്. നിങ്ങളുടെ നാശത്തിനല്ല, ക്ഷേമത്തിനുള്ള പദ്ധതിയാണത്.",
+        "en": "I know the thoughts that I think towards you, says the Lord, thoughts of peace, and not of affliction."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-55-22",
+      "theme": "peace",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 55:22",
+        "en": "Psalm 55:22"
+      },
+      "text": {
+        "ml": "നിന്റെ ഭാരം കർത്താവിനെ ഏൽപ്പിക്കുക. അവിടുന്ന് നിന്നെ താങ്ങിക്കൊള്ളും.",
+        "en": "Cast your care upon the Lord, and he shall sustain you."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-13-10",
+      "theme": "love",
+      "ref": {
+        "ml": "റോമാ 13:10",
+        "en": "Romans 13:10"
+      },
+      "text": {
+        "ml": "നിയമത്തിന്റെ പൂർത്തീകരണം സ്നേഹമാകുന്നു.",
+        "en": "Love therefore is the fulfilling of the law."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-32-10",
+      "theme": "love",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 32:10",
+        "en": "Psalm 32:10"
+      },
+      "text": {
+        "ml": "കർത്താവിൽ ആശ്രയിക്കുന്നവനെ അവിടുത്തെ സ്നേഹം വലയം ചെയ്യും.",
+        "en": "Mercy shall encompass him that hopes in the Lord."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-17-17",
+      "theme": "love",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 17:17",
+        "en": "Proverbs 17:17"
+      },
+      "text": {
+        "ml": "ആപത്തിൽ പങ്കുചേരാൻ ജനിച്ചവനാണ് സഹോദരൻ.",
+        "en": "A brother is proved in distress."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-26-4",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 26:4",
+        "en": "Proverbs 26:4"
+      },
+      "text": {
+        "ml": "വിഡ്ഢിത്തത്തിനൊപ്പിച്ച് മറുപടി പറയരുത്.",
+        "en": "Answer not a fool according to his folly."
+      },
+      "published": true
+    },
+    {
+      "id": "ezekiel-7-8-b",
+      "theme": "repentance",
+      "ref": {
+        "ml": "എസെക്കിയേൽ 7:8",
+        "en": "Ezekiel 7:8"
+      },
+      "text": {
+        "ml": "നിന്റെ പ്രവൃത്തികൾക്കനുസൃതമായി നിന്നെ ഞാൻ വിധിക്കും.",
+        "en": "I will judge you according to your ways."
+      },
+      "published": true
+    },
+    {
+      "id": "zechariah-1-3",
+      "theme": "repentance",
+      "ref": {
+        "ml": "സഖറിയാ 1:3",
+        "en": "Zechariah 1:3"
+      },
+      "text": {
+        "ml": "എന്റെ സന്നിധിയിലേക്ക് മടങ്ങിവരുവിൻ.",
+        "en": "Turn to me, says the Lord of hosts."
+      },
+      "published": true
+    },
+    {
+      "id": "romans-8-9",
+      "theme": "faith",
+      "ref": {
+        "ml": "റോമാ 8:9",
+        "en": "Romans 8:9"
+      },
+      "text": {
+        "ml": "ക്രിസ്തുവിന്റെ ആത്മാവില്ലാത്തവൻ ക്രിസ്തുവിനുള്ളവനല്ല.",
+        "en": "If any man have not the Spirit of Christ, he is none of his."
+      },
+      "published": true
+    },
+    {
+      "id": "hebrews-13-16",
+      "theme": "love",
+      "ref": {
+        "ml": "ഹെബ്രായർ 13:16",
+        "en": "Hebrews 13:16"
+      },
+      "text": {
+        "ml": "നന്മചെയ്യുന്നതിലും നിങ്ങൾക്കുള്ളവ പങ്കുവെയ്ക്കുന്നതിലും ഉപേക്ഷവരുത്തരുത്.",
+        "en": "Do not forget to do good and to share."
+      },
+      "published": true
+    },
+    {
+      "id": "acts-1-8",
+      "theme": "strength",
+      "ref": {
+        "ml": "അപ്പസ്തോലന്മാരുടെ നടപടികൾ 1:8",
+        "en": "Acts 1:8"
+      },
+      "text": {
+        "ml": "പരിശുദ്ധാത്മാവ് നിങ്ങളുടെ മേൽ വന്നുകഴിയുമ്പോൾ നിങ്ങൾ ശക്തി പ്രാപിക്കും.",
+        "en": "You shall receive the power of the Holy Spirit coming upon you."
+      },
+      "published": true
+    },
+    {
+      "id": "deuteronomy-16-19",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "നിയമാവർത്തനം 16:19",
+        "en": "Deuteronomy 16:19"
+      },
+      "text": {
+        "ml": "നീ പക്ഷപാതം കാണിക്കുകയോ കൈക്കൂലി വാങ്ങുകയോ അരുത്.",
+        "en": "You shall not accept person nor gifts."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-32-17",
+      "theme": "peace",
+      "ref": {
+        "ml": "ഏശയ്യാ 32:17",
+        "en": "Isaiah 32:17"
+      },
+      "text": {
+        "ml": "നീതിയുടെ പരിണതഫലം പ്രശാന്തതയും എന്നേക്കുമുള്ള പ്രത്യാശയുമായിരിക്കും.",
+        "en": "The work of justice shall be peace, and the service of justice quietness, and security for ever."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-5-24",
+      "theme": "repentance",
+      "ref": {
+        "ml": "മത്തായി 5:24",
+        "en": "Matthew 5:24"
+      },
+      "text": {
+        "ml": "ആദ്യം പോയി സഹോദരനോട് രമ്യപ്പെടുക.",
+        "en": "Go first to be reconciled to your brother."
+      },
+      "published": true
+    },
+    {
+      "id": "hebrews-4-12",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഹെബ്രായർ 4:12",
+        "en": "Hebrews 4:12"
+      },
+      "text": {
+        "ml": "ദൈവത്തിന്റെ വചനം സജീവവും ഊർജ്ജസ്വലവുമാണ്.",
+        "en": "The word of God is living and effectual."
+      },
+      "published": true
+    },
+    {
+      "id": "john-6-65",
+      "theme": "faith",
+      "ref": {
+        "ml": "യോഹന്നാൻ 6:65",
+        "en": "John 6:65"
+      },
+      "text": {
+        "ml": "പിതാവിൽനിന്ന് വരം ലഭിച്ചാലല്ലാതെ എന്റെ അടുക്കലേക്കുവരുവാൻ ആർക്കും സാധിക്കുകയില്ല.",
+        "en": "No man can come to me, unless it be given him by my Father."
+      },
+      "published": true
+    },
+    {
+      "id": "philippians-1-21",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഫിലിപ്പി 1:21",
+        "en": "Philippians 1:21"
+      },
+      "text": {
+        "ml": "എനിക്ക് ജീവിതം ക്രിസ്തുവും മരണം നേട്ടവുമാകുന്നു",
+        "en": "For to me, to live is Christ: and to die is gain."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-27-26",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 27:26",
+        "en": "Sirach 27:26"
+      },
+      "text": {
+        "ml": "താൻ കുഴിച്ച കുഴിയിൽ താൻ തന്നെ വീഴും. താൻ വെച്ച കെണിയിൽ താൻതന്നെ കുടുങ്ങും.",
+        "en": "He that digs a pit, shall fall into it... and he that lays a snare for another, shall perish in it."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-37-8",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 37:8",
+        "en": "Psalm 37:8"
+      },
+      "text": {
+        "ml": "ക്രോധം വെടിയുക. പരിഭ്രമിക്കാതിരിക്കുക; അത് തിന്മയിലേക്ക് മാത്രമേ നയിക്കൂ.",
+        "en": "Cease from anger, and leave rage; have no emulation to do evil."
+      },
+      "published": true
+    },
+    {
+      "id": "leviticus-19-31",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ലേവ്യർ 19:31",
+        "en": "Leviticus 19:31"
+      },
+      "text": {
+        "ml": "നിങ്ങൾ മന്ത്രവാദികളേയും ശകുനക്കാരേയും സമീപിച്ച് അശുദ്ധരാകരുത്.",
+        "en": "Go not aside after wizards: neither ask anything of soothsayers, to be defiled by them."
+      },
+      "published": true
+    },
+    {
+      "id": "hebrews-12-14-b",
+      "theme": "peace",
+      "ref": {
+        "ml": "ഹെബ്രായർ 12:14",
+        "en": "Hebrews 12:14"
+      },
+      "text": {
+        "ml": "എല്ലാവരോടും സമാധാനത്തിൽ വർത്തിച്ച് വിശുദ്ധിക്കുവേണ്ടി പരിശ്രമിക്കുവിൻ.",
+        "en": "Follow peace with all men and holiness."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-8-5",
+      "theme": "love",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 8:5",
+        "en": "Sirach 8:5"
+      },
+      "text": {
+        "ml": "പശ്ചാത്തപിക്കുന്ന പാപിയെ പരിഹസിക്കരുത്. നമുക്കും തെറ്റു പറ്റിയിട്ടുണ്ടെന്നോർക്കണം.",
+        "en": "Despise not a man that turns away from sin, nor reproach him therewith: remember that we are all worthy of reproof."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-48-18",
+      "theme": "peace",
+      "ref": {
+        "ml": "ഏശയ്യാ 48:18",
+        "en": "Isaiah 48:18"
+      },
+      "text": {
+        "ml": "നീ എന്റെ കല്പനകൾ അനുഷ്ഠിച്ചിരുന്നെങ്കിൽ നിന്റെ സമാധാനം നദിപോലെ ഒഴുകുമായിരുന്നു.",
+        "en": "O that you had listened to my commandments: your peace had been as a river."
+      },
+      "published": true
+    },
+    {
+      "id": "1thessalonians-5-16",
+      "theme": "peace",
+      "ref": {
+        "ml": "1 തെസലോനിക്കാ 5:16",
+        "en": "1 Thessalonians 5:16"
+      },
+      "text": {
+        "ml": "എപ്പോഴും സന്തോഷത്തോടെയിരിക്കുവിൻ.",
+        "en": "Always rejoice."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-18-21",
+      "theme": "repentance",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 18:21",
+        "en": "Sirach 18:21"
+      },
+      "text": {
+        "ml": "വീഴുംമുമ്പ് വിനീതനാവുക. പാപം ചെയ്തുപോകുംമുമ്പ് പിൻതിരിയുക.",
+        "en": "Humble yourself before you are sick."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-19-8",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 19:8",
+        "en": "Sirach 19:8"
+      },
+      "text": {
+        "ml": "മിത്രത്തോടായാലും ശത്രുവിനോടായാലും കേട്ടത് പറയരുത്.",
+        "en": "Tell not your mind to friend or foe."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-10-8",
+      "theme": "love",
+      "ref": {
+        "ml": "മത്തായി 10:8",
+        "en": "Matthew 10:8"
+      },
+      "text": {
+        "ml": "ദാനമായി കിട്ടി. ദാനമായിത്തന്നെ കൊടുക്കുവിൻ.",
+        "en": "Freely have you received, freely give."
+      },
+      "published": true
+    },
+    {
+      "id": "hosea-6-6",
+      "theme": "love",
+      "ref": {
+        "ml": "ഹോസിയാ 6:6",
+        "en": "Hosea 6:6"
+      },
+      "text": {
+        "ml": "ബലിയല്ല സ്നേഹമാണ് ഞാൻ ആഗ്രഹിക്കുന്നത്.",
+        "en": "I desired mercy, and not sacrifice."
+      },
+      "published": true
+    },
+    {
+      "id": "john-14-23",
+      "theme": "love",
+      "ref": {
+        "ml": "യോഹന്നാൻ 14:23",
+        "en": "John 14:23"
+      },
+      "text": {
+        "ml": "എന്നെ സ്നേഹിക്കുന്നവൻ എന്റെ വചനം പാലിക്കും.",
+        "en": "If anyone love me, he will keep my word."
+      },
+      "published": true
+    },
+    {
+      "id": "joel-2-13",
+      "theme": "repentance",
+      "ref": {
+        "ml": "ജോയേൽ 2:13",
+        "en": "Joel 2:13"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ ഹൃദയമാണ് വസ്ത്രമല്ല കീറേണ്ടത്; നിങ്ങളുടെ ദൈവമായ കർത്താവിങ്കലേക്ക് തിരിയുവിൻ.",
+        "en": "Rend your hearts, and not your garments, and turn to the Lord your God."
+      },
+      "published": true
+    },
+    {
+      "id": "philippians-2-16",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഫിലിപ്പി 2:16",
+        "en": "Philippians 2:16"
+      },
+      "text": {
+        "ml": "നിങ്ങൾ ജീവന്റെ വചനത്തെ മുറുകെ പിടിക്കുക.",
+        "en": "Holding forth the word of life."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-18-30",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 18:30",
+        "en": "Sirach 18:30"
+      },
+      "text": {
+        "ml": "അധമവികാരങ്ങൾക്ക് കീഴടങ്ങാതെ തൃഷ്ണ നിയന്ത്രിക്കുക.",
+        "en": "Go not after your lusts, but turn away from your own will."
+      },
+      "published": true
+    },
+    {
+      "id": "judges-18-6",
+      "theme": "peace",
+      "ref": {
+        "ml": "ന്യായാധിപന്മാർ 18:6",
+        "en": "Judges 18:6"
+      },
+      "text": {
+        "ml": "സമാധാനമായി പോകുവിൻ. നിങ്ങളുടെ യാത്രയിൽ കർത്താവ് നിങ്ങളെ സംരക്ഷിക്കും.",
+        "en": "Go in peace: the Lord looks on your way, and the journey that you go."
+      },
+      "published": true
+    },
+    {
+      "id": "wisdom-3-9-b",
+      "theme": "love",
+      "ref": {
+        "ml": "ജ്ഞാനം 3:9",
+        "en": "Wisdom 3:9"
+      },
+      "text": {
+        "ml": "അവിടുത്തെ തിരഞ്ഞെടുക്കപ്പെട്ടവരുടെ മേൽ അവിടുന്നു കരുണയും അനുഗ്രഹവും വർഷിക്കും.",
+        "en": "Grace and peace are to his elect."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-2-1",
+      "theme": "strength",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 2:1",
+        "en": "Sirach 2:1"
+      },
+      "text": {
+        "ml": "എന്റെ മകനേ നീ കർത്തൃശുശ്രൂഷക്ക് ഒരുമ്പെടുന്നെങ്കിൽ പ്രലോഭനങ്ങളെ നേരിടാൻ ഒരുങ്ങിക്കൊള്ളുക.",
+        "en": "Son, when you come to the service of God... prepare your soul for temptation."
+      },
+      "published": true
+    },
+    {
+      "id": "genesis-31-42",
+      "theme": "strength",
+      "ref": {
+        "ml": "ഉത്പത്തി 31:42",
+        "en": "Genesis 31:42"
+      },
+      "text": {
+        "ml": "എന്റെ കഷ്ടപ്പാടും ദേഹാധ്വാനവും ദൈവം കണ്ടു.",
+        "en": "God beheld my affliction and the labor of my hands."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-63-1",
+      "theme": "faith",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 63:1",
+        "en": "Psalm 63:1"
+      },
+      "text": {
+        "ml": "എന്റെ ആത്മാവ് അങ്ങേക്കായി ദാഹിക്കുന്നു.",
+        "en": "For you my soul has thirsted."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-7-7",
+      "theme": "faith",
+      "ref": {
+        "ml": "മിക്കാ 7:7",
+        "en": "Micah 7:7"
+      },
+      "text": {
+        "ml": "എന്റെ രക്ഷകനായ ദൈവത്തിനു വേണ്ടി ഞാൻ കാത്തിരിക്കും.",
+        "en": "I will wait for God, my savior."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-4-28",
+      "theme": "strength",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 4:28",
+        "en": "Sirach 4:28"
+      },
+      "text": {
+        "ml": "മരിക്കേണ്ടിവന്നാലും സത്യം വെടിയരുത്. ദൈവമായ കർത്താവ് നിനക്ക് വേണ്ടി പൊരുതിക്കൊള്ളും.",
+        "en": "Even unto death fight for justice, and God will overthrow your enemies for you."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-21-22",
+      "theme": "faith",
+      "ref": {
+        "ml": "മത്തായി 21:22",
+        "en": "Matthew 21:22"
+      },
+      "text": {
+        "ml": "വിശ്വസിച്ചുകൊണ്ട് പ്രാർത്ഥനയിൽ നിങ്ങൾ ആവശ്യപ്പെടുന്നതെല്ലാം നിങ്ങൾക്ക് ലഭിക്കും.",
+        "en": "All things whatsoever you shall ask in prayer believing, you shall receive."
+      },
+      "published": true
+    },
+    {
+      "id": "jeremiah-4-14",
+      "theme": "repentance",
+      "ref": {
+        "ml": "ജറെമിയാ 4:14",
+        "en": "Jeremiah 4:14"
+      },
+      "text": {
+        "ml": "നിന്റെ ഹൃദയത്തിൽനിന്ന് ദുഷ്ടത കഴുകിക്കളയുക. എന്നാൽ നീ രക്ഷപ്പെടും.",
+        "en": "Wash your heart from wickedness... that you may be saved."
+      },
+      "published": true
+    },
+    {
+      "id": "revelation-3-19",
+      "theme": "love",
+      "ref": {
+        "ml": "വെളിപാട് 3:19",
+        "en": "Revelation 3:19"
+      },
+      "text": {
+        "ml": "ഞാൻ സ്നേഹിക്കുന്നവരെ ശാസിക്കുകയും ശിക്ഷിക്കുകയും ചെയ്യും.",
+        "en": "Such as I love, I rebuke and chastise."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-11-22",
+      "theme": "faith",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 11:22",
+        "en": "Sirach 11:22"
+      },
+      "text": {
+        "ml": "കർത്താവിന്റെ അനുഗ്രഹമാണ് ദൈവഭക്തന് സമ്മാനം.",
+        "en": "The blessing of God makes haste to reward the just."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-71-12",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 71:12",
+        "en": "Psalm 71:12"
+      },
+      "text": {
+        "ml": "ദൈവമേ എന്നിൽനിന്ന് അകന്നിരിക്കരുതേ.",
+        "en": "O God, be not far from me."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-62-12",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 62:12",
+        "en": "Psalm 62:12"
+      },
+      "text": {
+        "ml": "അവിടുന്ന് മനുഷ്യന് പ്രവൃത്തിക്കൊത്ത് പ്രതിഫലം നൽകുന്നു.",
+        "en": "You will render to every man according to his works."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-10-5",
+      "theme": "faith",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 10:5",
+        "en": "Sirach 10:5"
+      },
+      "text": {
+        "ml": "മനുഷ്യന്റെ വിജയം കർത്താവിന്റെ കരങ്ങളിലാണ്.",
+        "en": "The prosperity of man is in the hand of God."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-1-10",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 1:10",
+        "en": "Proverbs 1:10"
+      },
+      "text": {
+        "ml": "മകനേ പാപികളുടെ പ്രലോഭനത്തിന് വഴങ്ങരുത്.",
+        "en": "My son, if sinners shall entice you, consent not to them."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-1-38",
+      "theme": "faith",
+      "ref": {
+        "ml": "ലൂക്കാ 1:38",
+        "en": "Luke 1:38"
+      },
+      "text": {
+        "ml": "ഇതാ കർത്താവിന്റെ ദാസി നിന്റെ വചനം പോലെ എന്നിൽ ഭവിക്കട്ടെ.",
+        "en": "Behold the handmaid of the Lord: be it done to me according to your word."
+      },
+      "published": true
+    },
+    {
+      "id": "john-14-14",
+      "theme": "faith",
+      "ref": {
+        "ml": "യോഹന്നാൻ 14:14",
+        "en": "John 14:14"
+      },
+      "text": {
+        "ml": "എന്റെ നാമത്തിൽ നിങ്ങൾ എന്നോട് എന്തെങ്കിലും ചോദിച്ചാൽ ഞാനത് ചെയ്തുതരും.",
+        "en": "If you shall ask me anything in my name, that I will do."
+      },
+      "published": true
+    },
+    {
+      "id": "colossians-3-16",
+      "theme": "faith",
+      "ref": {
+        "ml": "കൊളോസോസ് 3:16",
+        "en": "Colossians 3:16"
+      },
+      "text": {
+        "ml": "ക്രിസ്തുവിന്റെ വചനം നിങ്ങളിൽ സമൃദ്ധമായി വസിക്കട്ടെ!",
+        "en": "Let the word of Christ dwell in you abundantly."
+      },
+      "published": true
+    },
+    {
+      "id": "micah-7-3",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "മിക്കാ 7:3",
+        "en": "Micah 7:3"
+      },
+      "text": {
+        "ml": "രാജാവും ന്യായാധിപനും കൈക്കൂലി ആവശ്യപ്പെടുന്നു.",
+        "en": "The prince requires, and the judge is for giving."
+      },
+      "published": true
+    },
+    {
+      "id": "habakkuk-2-4-b",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഹബക്കുക്ക് 2:4",
+        "en": "Habakkuk 2:4"
+      },
+      "text": {
+        "ml": "നീതിമാൻ തന്റെ വിശ്വസ്തത മൂലം ജീവിക്കും.",
+        "en": "The just shall live in his faith."
+      },
+      "published": true
+    },
+    {
+      "id": "mark-1-15",
+      "theme": "repentance",
+      "ref": {
+        "ml": "മർക്കോസ് 1:15",
+        "en": "Mark 1:15"
+      },
+      "text": {
+        "ml": "അനുതപിച്ച് സുവിശേഷത്തിൽ വിശ്വസിക്കുവിൻ.",
+        "en": "Repent and believe the gospel."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-16-3",
+      "theme": "faith",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 16:3",
+        "en": "Proverbs 16:3"
+      },
+      "text": {
+        "ml": "നിന്റെ പ്രയത്നം കർത്താവിൽ അർപ്പിക്കുക. നിന്റെ പദ്ധതികൾ ഫലമണിയും.",
+        "en": "Lay open your works to the Lord: and your thoughts shall be directed."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-1-17",
+      "theme": "love",
+      "ref": {
+        "ml": "ഏശയ്യാ 1:17",
+        "en": "Isaiah 1:17"
+      },
+      "text": {
+        "ml": "നന്മ പ്രവർത്തിക്കാൻ ശീലിക്കുവിൻ. നീതി അന്വേഷിക്കുവിൻ. മർദനം അവസാനിപ്പിക്കുവിൻ.",
+        "en": "Learn to do well: seek judgment, relieve the oppressed."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-43-25",
+      "theme": "repentance",
+      "ref": {
+        "ml": "ഏശയ്യാ 43:25",
+        "en": "Isaiah 43:25"
+      },
+      "text": {
+        "ml": "നിന്റെ പാപങ്ങൾ തുടച്ചുമാറ്റുന്ന ദൈവം ഞാൻ തന്നെ.",
+        "en": "I am, I am he that blot out your iniquities."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-51-6",
+      "theme": "faith",
+      "ref": {
+        "ml": "ഏശയ്യാ 51:6",
+        "en": "Isaiah 51:6"
+      },
+      "text": {
+        "ml": "ഞാൻ നൽകുന്ന രക്ഷ നിത്യമാണ്; മോചനം അനന്തവും.",
+        "en": "My salvation shall be for ever, and my justice shall not fail."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-23-1",
+      "theme": "peace",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 23:1",
+        "en": "Psalm 23:1"
+      },
+      "text": {
+        "ml": "കർത്താവാണ് എന്റെ ഇടയൻ എനിക്കൊന്നിനും കുറവുണ്ടാവുകയില്ല.",
+        "en": "The Lord is my shepherd; I shall lack nothing."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "matthew-6-33",
+      "theme": "faith",
+      "ref": {
+        "ml": "മത്തായി 6:33",
+        "en": "Matthew 6:33"
+      },
+      "text": {
+        "ml": "നിങ്ങൾ ആദ്യം അവിടുത്തെ രാജ്യവും അവിടുത്തെ നീതിയും അന്വേഷിക്കുക.",
+        "en": "Seek first the kingdom of God, and his justice."
+      },
+      "published": true
+    },
+    {
+      "id": "ruth-2-12",
+      "theme": "faith",
+      "ref": {
+        "ml": "റൂത്ത് 2:12",
+        "en": "Ruth 2:12"
+      },
+      "text": {
+        "ml": "നിന്റെ പ്രവൃത്തികൾക്ക് കർത്താവ് പ്രതിഫലം നൽകും.",
+        "en": "The Lord render unto you for your work."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-25-12",
+      "theme": "faith",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 25:12",
+        "en": "Psalm 25:12"
+      },
+      "text": {
+        "ml": "കർത്താവിനെ ഭയപ്പെടുന്നവനാരോ അവൻ തിരഞ്ഞെടുക്കേണ്ടവഴി അവിടുന്ന് കാണിച്ചുകൊടുക്കും.",
+        "en": "Who is the man that fears the Lord? He has appointed him a law in the way he has chosen."
+      },
+      "published": true
+    },
+    {
+      "id": "1peter-1-25",
+      "theme": "faith",
+      "ref": {
+        "ml": "1 പത്രോസ് 1:25",
+        "en": "1 Peter 1:25"
+      },
+      "text": {
+        "ml": "കർത്താവിന്റെ വചനം നിത്യം നിലനിൽക്കുന്നു",
+        "en": "The word of the Lord endures for ever."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-9-8",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 9:8",
+        "en": "Sirach 9:8"
+      },
+      "text": {
+        "ml": "മറ്റൊരുവന് സ്വന്തമായ സൗന്ദര്യത്തെ അഭിലഷിക്കരുത്. സ്ത്രീ സൗന്ദര്യം അനേകരെ വഴിതെറ്റിച്ചിട്ടുണ്ട്.",
+        "en": "Gaze not about upon another's beauty. For many have perished by the beauty of a woman."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-55-5",
+      "theme": "love",
+      "ref": {
+        "ml": "ഏശയ്യാ 55:5",
+        "en": "Isaiah 55:5"
+      },
+      "text": {
+        "ml": "നിന്റെ ദൈവമായ കർത്താവ് നിന്നെ ഉയർത്തിയിരിക്കുന്നു.",
+        "en": "Because of the Lord your God... for he has glorified you."
+      },
+      "published": true
+    },
+    {
+      "id": "ephesians-4-26",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "എഫേസോസ് 4:26",
+        "en": "Ephesians 4:26"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ കോപം സൂര്യൻ അസ്തമിക്കുന്നതുവരെ നീണ്ടുപോകാതിരിക്കട്ടെ.",
+        "en": "Let not the sun go down upon your anger."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-25-3",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 25:3",
+        "en": "Psalm 25:3"
+      },
+      "text": {
+        "ml": "വിശ്വാസവഞ്ചകർ അപമാനമേൽക്കട്ടെ.",
+        "en": "Let the treacherous be put to shame."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "sirach-3-26",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 3:26",
+        "en": "Sirach 3:26"
+      },
+      "text": {
+        "ml": "നിർബന്ധബുദ്ധി നാശത്തിലൊടുങ്ങും.",
+        "en": "A stubborn mind will end in ruin."
+      },
+      "published": true,
+      "note": "English translated from POC Malayalam"
+    },
+    {
+      "id": "psalm-34-21",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 34:21",
+        "en": "Psalm 34:21"
+      },
+      "text": {
+        "ml": "നീതിമാന്മാരെ ദ്വേഷിക്കുന്നവർക്ക് ശിക്ഷാവിധിയുണ്ടാകും.",
+        "en": "They that hate the just shall be guilty."
+      },
+      "published": true
+    },
+    {
+      "id": "exodus-33-17",
+      "theme": "love",
+      "ref": {
+        "ml": "പുറപ്പാട് 33:17",
+        "en": "Exodus 33:17"
+      },
+      "text": {
+        "ml": "നീ എന്റെ പ്രീതി നേടിയിരിക്കുന്നു.",
+        "en": "You have found grace before me."
+      },
+      "published": true
+    },
+    {
+      "id": "sirach-1-16",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "പ്രഭാഷകൻ 1:16",
+        "en": "Sirach 1:16"
+      },
+      "text": {
+        "ml": "കർത്താവിനോടുള്ള ഭക്തി ജ്ഞാനത്തിന്റെ പൂർണ്ണതയാണ്.",
+        "en": "To fear God is the fullness of wisdom."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-21-36",
+      "theme": "faith",
+      "ref": {
+        "ml": "ലൂക്കാ 21:36",
+        "en": "Luke 21:36"
+      },
+      "text": {
+        "ml": "സദാ പ്രാർത്ഥിച്ചുകൊണ്ട് ജാഗരൂകരായിരിക്കുവിൻ.",
+        "en": "Watch, therefore, praying at all times."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-6-27",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "മത്തായി 6:27",
+        "en": "Matthew 6:27"
+      },
+      "text": {
+        "ml": "ഉൽക്കണ്ഠമൂലം ആയുസ്സിന്റെ ദൈർഘ്യം ഒരുമുഴമെങ്കിലും കൂട്ടാൻ നിങ്ങളിലാർക്കെങ്കിലും സാധിക്കുമോ?",
+        "en": "Which of you by taking thought, can add to his stature one cubit?"
+      },
+      "published": true
+    },
+    {
+      "id": "tobit-4-18",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "തോബിത് 4:18",
+        "en": "Tobit 4:18"
+      },
+      "text": {
+        "ml": "വിവേകമുള്ള ഏതൊരുവനിൽനിന്നും ഉപദേശം തേടുക.",
+        "en": "Seek counsel always of a wise man."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-14-27",
+      "theme": "strength",
+      "ref": {
+        "ml": "ലൂക്കാ 14:27",
+        "en": "Luke 14:27"
+      },
+      "text": {
+        "ml": "സ്വന്തം കുരിശുവഹിക്കാതെ എന്റെ പിന്നാലെ വരുന്നവന് എന്റെ ശിഷ്യനായിരിക്കാൻ കഴിയുകയില്ല.",
+        "en": "Whoever does not carry his cross and come after me cannot be my disciple."
+      },
+      "published": true
+    },
+    {
+      "id": "acts-16-31",
+      "theme": "faith",
+      "ref": {
+        "ml": "അപ്പസ്തോലന്മാരുടെ നടപടികൾ 16:31",
+        "en": "Acts 16:31"
+      },
+      "text": {
+        "ml": "കർത്താവായ യേശുക്രിസ്തുവിൽ വിശ്വസിക്കുക നീയും നിന്റെ കുടുംബവും രക്ഷപ്രാപിക്കും.",
+        "en": "Believe in the Lord Jesus: and you shall be saved, and your house."
+      },
+      "published": true
+    },
+    {
+      "id": "john-6-29",
+      "theme": "faith",
+      "ref": {
+        "ml": "യോഹന്നാൻ 6:29",
+        "en": "John 6:29"
+      },
+      "text": {
+        "ml": "ദൈവം അയച്ചവനിൽ വിശ്വസിക്കുക.",
+        "en": "This is the work of God, that you believe in him whom he has sent."
+      },
+      "published": true
+    },
+    {
+      "id": "mark-2-17",
+      "theme": "healing",
+      "ref": {
+        "ml": "മർക്കോസ് 2:17",
+        "en": "Mark 2:17"
+      },
+      "text": {
+        "ml": "ആരോഗ്യമുള്ളവർക്കല്ല രോഗികൾക്കാണ് വൈദ്യനെക്കൊണ്ടാവശ്യം.",
+        "en": "They that are well have no need of a physician, but they that are sick."
+      },
+      "published": true
+    },
+    {
+      "id": "wisdom-1-11-b",
+      "theme": "wisdom",
+      "ref": {
+        "ml": "ജ്ഞാനം 1:11",
+        "en": "Wisdom 1:11"
+      },
+      "text": {
+        "ml": "നിഷ്പ്രയോജനമായ മുറുമുറുപ്പിൽ പെടരുത്.",
+        "en": "Keep yourselves from murmuring, which profits nothing."
+      },
+      "published": true
+    },
+    {
+      "id": "exodus-20-24",
+      "theme": "love",
+      "ref": {
+        "ml": "പുറപ്പാട് 20:24",
+        "en": "Exodus 20:24"
+      },
+      "text": {
+        "ml": "ഞാൻ നിങ്ങളുടെ അടുക്കലേക്ക് വരികയും നിങ്ങളെ അനുഗ്രഹിക്കുകയും ചെയ്യും.",
+        "en": "I will come to you, and will bless you."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-28-20",
+      "theme": "protection",
+      "ref": {
+        "ml": "മത്തായി 28:20",
+        "en": "Matthew 28:20"
+      },
+      "text": {
+        "ml": "കാലത്തിന്റെ അവസാനംവരെ എന്നും ഞാൻ നിങ്ങളോടുകൂടി ഉണ്ടായിരിക്കും.",
+        "en": "Behold I am with you all days, even to the consummation of the world."
+      },
+      "published": true
+    },
+    {
+      "id": "revelation-2-10",
+      "theme": "strength",
+      "ref": {
+        "ml": "വെളിപാട് 2:10",
+        "en": "Revelation 2:10"
+      },
+      "text": {
+        "ml": "മരണംവരെ വിശ്വസ്തനായിരിക്കുക. ജീവന്റെ കിരീടം നിനക്കു ഞാൻ നൽകും.",
+        "en": "Be faithful unto death: and I will give you the crown of life."
+      },
+      "published": true
+    },
+    {
+      "id": "zephaniah-3-17",
+      "theme": "protection",
+      "ref": {
+        "ml": "സെഫാനിയാ 3:17",
+        "en": "Zephaniah 3:17"
+      },
+      "text": {
+        "ml": "കർത്താവ് നിങ്ങളുടെ മദ്ധ്യേയുണ്ട്. നിങ്ങൾ ഇനിമേൽ അനർത്ഥം ഭയപ്പെടേണ്ടതില്ല.",
+        "en": "The Lord is in the midst of you, you shall fear evil no more."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-91-11",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 91:11",
+        "en": "Psalm 91:11"
+      },
+      "text": {
+        "ml": "നിന്റെ വഴികളില്‍ നിന്നെ കാത്തുപാലിക്കാന്‍ അവിടുന്നു തന്റെ ദൂതന്‍മാരോടു കല്‍പിക്കും.",
+        "en": "For he will give his angels charge of you to guard you in all your ways."
+      },
+      "published": true,
+      "note": "English is RSV wording, recheck against NRSV-CE"
+    },
+    {
+      "id": "psalm-46-1",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 46:1",
+        "en": "Psalm 46:1"
+      },
+      "text": {
+        "ml": "ദൈവമാണു നമ്മുടെ അഭയവും ശക്തിയും; കഷ്ടതകളില്‍ അവിടുന്നു സുനിശ്ചിതമായ തുണയാണ്.",
+        "en": "God is our refuge and strength, a very present help in trouble."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-34-7",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 34:7",
+        "en": "Psalm 34:7"
+      },
+      "text": {
+        "ml": "കര്‍ത്താവിന്റെ ദൂതന്‍ ദൈവഭക്തരുടെ ചുറ്റും പാളയമടിച്ച് അവരെ രക്ഷിക്കുന്നു.",
+        "en": "The angel of the Lord encamps around those who fear him, and delivers them."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-27-1",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 27:1",
+        "en": "Psalm 27:1"
+      },
+      "text": {
+        "ml": "കര്‍ത്താവ് എന്റെ പ്രകാശവും രക്ഷയുമാണ്, ഞാന്‍ ആരെ ഭയപ്പെടണം? കര്‍ത്താവ് എന്റെ ജീവിതത്തിനു കോട്ടയാണ്, ഞാന്‍ ആരെ പേടിക്കണം?",
+        "en": "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid?"
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-32-7",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 32:7",
+        "en": "Psalm 32:7"
+      },
+      "text": {
+        "ml": "നീ എനിക്കു മറവിടമാകുന്നു; നീ എന്നെ കഷ്ടത്തിൽനിന്നു സൂക്ഷിക്കും; രക്ഷയുടെ ഉല്ലാസഘോഷം കൊണ്ടു നീ എന്നെ ചുറ്റിക്കൊള്ളും.",
+        "en": "You are a hiding place for me;\nyou preserve me from trouble;\nyou surround me with glad cries of deliverance."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-18-2",
+      "theme": "protection",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 18:2",
+        "en": "Psalm 18:2"
+      },
+      "text": {
+        "ml": "അങ്ങാണ് എന്റെ രക്ഷാശിലയും കോട്ടയും വിമോചകനും, എന്റെ ദൈവവും എനിക്ക് അഭയം തരുന്ന പാറയും, എന്റെ പരിചയും രക്ഷാശൃംഗവും അഭയകേന്ദ്രവും.",
+        "en": "The Lord is my rock, my fortress, and my deliverer,\nmy God, my rock in whom I take refuge,\nmy shield, and the horn of my salvation, my stronghold."
+      },
+      "published": true
+    },
+    {
+      "id": "2thessalonians-3-3",
+      "theme": "protection",
+      "ref": {
+        "ml": "2 തെസലോനിക്കാ 3:3",
+        "en": "2 Thessalonians 3:3"
+      },
+      "text": {
+        "ml": "എന്നാല്‍, കര്‍ത്താവ് വിശ്വസ്തനാണ്. അവിടുന്നു നിങ്ങളെ ശക്തിപ്പെടുത്തുകയും ദുഷ്ടനില്‍നിന്നു കാത്തുകൊള്ളുകയും ചെയ്യും.",
+        "en": "But the Lord is faithful; he will strengthen you and guard you from the evil one."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-54-17",
+      "theme": "protection",
+      "ref": {
+        "ml": "ഏശയ്യാ 54:17",
+        "en": "Isaiah 54:17"
+      },
+      "text": {
+        "ml": "കര്‍ത്താവ് അരുളിച്ചെയ്യുന്നു: നിന്നെ ഉപദ്രവിക്കാന്‍ ഉണ്ടാക്കിയ ഒരായുധവും ഫലപ്രദമാവുകയില്ല. നിനക്കെതിരേ വിധി പ്രസ്താവിക്കുന്ന എല്ലാ നാവുകളെയും നീ ഖണ്ഡിക്കും; കര്‍ത്താവിന്റെ ദാസരുടെ പൈതൃകവും എന്റെ നീതിനടത്തലുമാണ് ഇത്.",
+        "en": "No weapon that is fashioned against you shall prosper,\nand you shall confute every tongue that rises against you in judgment.\nThis is the heritage of the servants of the Lord\nand their vindication from me, says the Lord."
+      },
+      "published": true
+    },
+    {
+      "id": "deuteronomy-31-6",
+      "theme": "protection",
+      "ref": {
+        "ml": "നിയമാവർത്തനം 31:6",
+        "en": "Deuteronomy 31:6"
+      },
+      "text": {
+        "ml": "ശക്തരും ധീരരുമായിരിക്കുവിന്‍, ഭയപ്പെടേണ്ടാ; അവരെപ്രതി പരിഭ്രമിക്കുകയും വേണ്ടാ. നിങ്ങളുടെ ദൈവമായ കര്‍ത്താവാണ് നിങ്ങളുടെ കൂടെ വരുന്നത്. അവിടുന്ന് നിങ്ങളെ കൈവിടുകയോ ഉപേക്ഷിക്കുകയോ ഇല്ല.",
+        "en": "Be strong and bold; have no fear or dread of them, because it is the Lord your God who goes with you; he will not fail you or forsake you."
+      },
+      "published": true
+    },
+    {
+      "id": "james-4-7",
+      "theme": "protection",
+      "ref": {
+        "ml": "യാക്കോബ് 4:7",
+        "en": "James 4:7"
+      },
+      "text": {
+        "ml": "ആകയാല്‍ ദൈവത്തിനു വിധേയരാകുവിന്‍; പിശാചിനെ ചെറുത്തു നില്‍ക്കുവിന്‍, അപ്പോള്‍ അവന്‍ നിങ്ങളില്‍നിന്ന് ഓടിയകന്നുകൊള്ളും.",
+        "en": "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+      },
+      "published": true
+    },
+    {
+      "id": "ephesians-6-11",
+      "theme": "protection",
+      "ref": {
+        "ml": "എഫേസോസ് 6:11",
+        "en": "Ephesians 6:11"
+      },
+      "text": {
+        "ml": "സാത്താന്റെ കുടിലതന്ത്രങ്ങളെ എതിര്‍ത്തുനില്‍ക്കാന്‍ ദൈവത്തിന്റെ എല്ലാ ആയുധങ്ങളും ധരിക്കുവിന്‍.",
+        "en": "Put on the whole armor of God, so that you may be able to stand against the wiles of the devil."
+      },
+      "published": true
+    },
+    {
+      "id": "luke-10-19",
+      "theme": "protection",
+      "ref": {
+        "ml": "ലൂക്കാ 10:19",
+        "en": "Luke 10:19"
+      },
+      "text": {
+        "ml": "ഇതാ, പാമ്പുകളുടെയും തേളുകളുടെയും ശത്രുവിന്റെ സകല ശക്തികളുടെയും മീതേ ചവിട്ടി നടക്കാൻ നിങ്ങൾക്ക് ഞാൻ അധികാരം തന്നിരിക്കുന്നു; ഒന്നും നിങ്ങളെ ഉപദ്രവിക്കുകയില്ല.",
+        "en": "See, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy; and nothing will hurt you."
+      },
+      "published": true
+    },
+    {
+      "id": "1john-4-4",
+      "theme": "protection",
+      "ref": {
+        "ml": "1 യോഹന്നാൻ 4:4",
+        "en": "1 John 4:4"
+      },
+      "text": {
+        "ml": "കുഞ്ഞുമക്കളേ, നിങ്ങള്‍ ദൈവത്തില്‍ നിന്നുള്ളവരാണ്. നിങ്ങള്‍ വ്യാജപ്രവാചകന്‍മാരെ കീഴ്‌പ്പെടുത്തിയിരിക്കുന്നു. എന്തെന്നാല്‍, നിങ്ങളുടെ ഉള്ളിലുള്ളവന്‍ ലോകത്തിലുള്ളവനെക്കാള്‍ വലിയവനാണ്.",
+        "en": "Little children, you are from God, and have conquered them; for the one who is in you is greater than the one who is in the world."
+      },
+      "published": true
+    },
+    {
+      "id": "proverbs-3-5",
+      "theme": "peace",
+      "ref": {
+        "ml": "സുഭാഷിതങ്ങൾ 3:5",
+        "en": "Proverbs 3:5"
+      },
+      "text": {
+        "ml": "കര്‍ത്താവില്‍ പൂര്‍ണഹൃദയത്തോടെ വിശ്വാസമര്‍പ്പിക്കുക; സ്വന്തം ബുദ്ധിയെ ആശ്രയിക്കുകയുമരുത്.",
+        "en": "Trust in the Lord with all your heart,\nand do not rely on your own insight."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-26-3",
+      "theme": "peace",
+      "ref": {
+        "ml": "ഏശയ്യാ 26:3",
+        "en": "Isaiah 26:3"
+      },
+      "text": {
+        "ml": "സ്ഥിരമാനസൻ നിന്നിൽ ആശ്രയം വച്ചിരിക്കകൊണ്ടു നീ അവനെ പൂർണസമാധാനത്തിൽ കാക്കുന്നു.",
+        "en": "Those of steadfast mind you keep in peace—\nin peace because they trust in you."
+      },
+      "published": true
+    },
+    {
+      "id": "john-14-27",
+      "theme": "peace",
+      "ref": {
+        "ml": "യോഹന്നാൻ 14:27",
+        "en": "John 14:27"
+      },
+      "text": {
+        "ml": "ഞാൻ നിങ്ങൾക്ക് സമാധാനം തന്നിട്ടു പോകുന്നു. എന്റെ സമാധാനം നിങ്ങൾക്ക് ഞാൻ നൽകുന്നു. ലോകം നൽകുന്നതുപോലെയല്ല ഞാൻ നൽകുന്നത്. നിങ്ങളുടെ ഹൃദയം അസ്വസ്ഥമാകരുത്; നിങ്ങൾ ഭയപ്പെടുകയും അരുത്.",
+        "en": "Peace I leave with you; my peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled, and do not let them be afraid."
+      },
+      "published": true
+    },
+    {
+      "id": "philippians-4-6",
+      "theme": "peace",
+      "ref": {
+        "ml": "ഫിലിപ്പി 4:6",
+        "en": "Philippians 4:6"
+      },
+      "text": {
+        "ml": "ഒന്നിനെക്കുറിച്ചും ആകുലരാകേണ്ടാ. പ്രാര്‍ഥനയിലൂടെയും അപേക്ഷയിലൂടെയും കൃതജ്ഞതാസ്‌തോത്രങ്ങളോടെ നിങ്ങളുടെ യാചനകള്‍ ദൈവസന്നിധിയില്‍ അര്‍പ്പിക്കുവിന്‍.",
+        "en": "Do not worry about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God."
+      },
+      "published": true
+    },
+    {
+      "id": "matthew-11-28",
+      "theme": "peace",
+      "ref": {
+        "ml": "മത്തായി 11:28",
+        "en": "Matthew 11:28"
+      },
+      "text": {
+        "ml": "അധ്വാനിക്കുന്നവരും ഭാരം വഹിക്കുന്നവരുമായ നിങ്ങളെല്ലാവരും എന്റെ അടുക്കൽ വരുവിൻ; ഞാൻ നിങ്ങളെ ആശ്വസിപ്പിക്കാം.",
+        "en": "Come to me, all you that are weary and are carrying heavy burdens, and I will give you rest."
+      },
+      "published": true
+    },
+    {
+      "id": "1peter-5-7",
+      "theme": "peace",
+      "ref": {
+        "ml": "1 പത്രോസ് 5:7",
+        "en": "1 Peter 5:7"
+      },
+      "text": {
+        "ml": "നിങ്ങളുടെ ഉത്കണ്ഠകളെല്ലാം അവിടുത്തെ ഏല്‍പിക്കുവിന്‍. അവിടുന്നു നിങ്ങളുടെ കാര്യത്തില്‍ ശ്രദ്ധാലുവാണ്.",
+        "en": "Cast all your anxiety on him, because he cares for you."
+      },
+      "published": true
+    },
+    {
+      "id": "psalm-46-10",
+      "theme": "peace",
+      "ref": {
+        "ml": "സങ്കീർത്തനങ്ങൾ 46:10",
+        "en": "Psalm 46:10"
+      },
+      "text": {
+        "ml": "ശാന്തമാകുക, ഞാന്‍ ദൈവമാണെന്നറിയുക; ഞാന്‍ ജനതകളുടെ ഇടയില്‍ ഉന്നതനാണ്; ഞാന്‍ ഭൂമിയില്‍ ഉന്നതനാണ്.",
+        "en": "Be still, and know that I am God!\nI am exalted among the nations,\nI am exalted in the earth."
+      },
+      "published": true
+    },
+    {
+      "id": "isaiah-41-10",
+      "theme": "strength",
+      "ref": {
+        "ml": "ഏശയ്യാ 41:10",
+        "en": "Isaiah 41:10"
+      },
+      "text": {
+        "ml": "ഭയപ്പെടേണ്ടാ, ഞാന്‍ നിന്നോടുകൂടെയുണ്ട്. സംഭ്രമിക്കേണ്ടാ, ഞാനാണ് നിന്‍റെ ദൈവം. ഞാന്‍ നിന്നെ ശക്തിപ്പെടുത്തുകയും സഹായിക്കുകയും ചെയ്യും. എന്‍റെ വിജയകരമായ വലത്തുകൈകൊണ്ടു ഞാന്‍ നിന്നെതാങ്ങിനിര്‍ത്തും.",
+        "en": "Do not fear, for I am with you,\ndo not be afraid, for I am your God;\nI will strengthen you, I will help you,\nI will uphold you with my victorious right hand."
+      },
+      "published": true
+    }
+  ],
+  "englishTranslation": "Mixed for now: Douay-Rheims (adapted wording), NRSV-CE for verses added from the first list; entries with a note are translated from POC Malayalam"
+}
