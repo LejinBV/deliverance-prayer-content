@@ -257,6 +257,7 @@
         }
       ],
       "image": "images/journey.jpg",
+      "bannerFocus":"70%",
       "published": true
     },
     {
