@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2026-11-06",
+  "version": 2,
+  "updated": "2026-11-11",
   "defaultFavourites": [
     "jericho",
     "deliverance-short",
@@ -14,12 +14,15 @@
         "ml": "ജെറിക്കോ പ്രാർത്ഥന",
         "en": "Jericho Prayer"
       },
-      "body": {
-        "ml": "ത്രിത്വത്തിന്റെ സംരക്ഷണം പരിശുദ്ധനായ ബാവ തമ്പുരാനെ, നിന്റെ പരിശുദ്ധ തിരുനാമത്താൽ ഞങ്ങളെ കാത്തുകൊള്ളണമേ. രക്ഷിതാവായ പുത്രൻ തമ്പുരാനെ, നിന്റെ ജയമുള്ള സ്ലീബായാൽ † ഞങ്ങളെ മറച്ചുകൊള്ളണമേ. പരിശുദ്ധനായ റൂഹാ തമ്പുരാനെ ഞങ്ങളെ നിന്റെ അധിവാസത്തിനു ഭവനങ്ങളാക്കി തീർക്കണമേ. ഞങ്ങളുടെ ദൈവമായ കർത്താവെ എല്ലാ സമയത്തും നിന്റെ ദൈവത്വത്തിന്റെ ചിറകുകളുടെ കീഴിൽ ഞങ്ങളെ മറച്ചു കൊള്ളണമേ. ",
-        "en": ""
-      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "ത്രിത്വത്തിന്റെ സംരക്ഷണം പരിശുദ്ധനായ ബാവ തമ്പുരാനെ, നിന്റെ പരിശുദ്ധ തിരുനാമത്താൽ ഞങ്ങളെ കാത്തുകൊള്ളണമേ. രക്ഷിതാവായ പുത്രൻ തമ്പുരാനെ, നിന്റെ ജയമുള്ള സ്ലീബായാൽ † ഞങ്ങളെ മറച്ചുകൊള്ളണമേ. പരിശുദ്ധനായ റൂഹാ തമ്പുരാനെ ഞങ്ങളെ നിന്റെ അധിവാസത്തിനു ഭവനങ്ങളാക്കി തീർക്കണമേ. ഞങ്ങളുടെ ദൈവമായ കർത്താവെ എല്ലാ സമയത്തും നിന്റെ ദൈവത്വത്തിന്റെ ചിറകുകളുടെ കീഴിൽ ഞങ്ങളെ മറച്ചു കൊള്ളണമേ.",
+          "en": ""
+        }
+      ],
       "image": "images/jericho.jpg",
-      "bannerFocus":"60%",
+      "bannerFocus": "60%",
       "published": true
     },
     {
@@ -28,22 +31,13 @@
         "ml": "ചെറിയ വിടുതൽ പ്രാർത്ഥന",
         "en": "Deliverance Prayer Short"
       },
-     "body": {
-    "ml": "കർത്താവായ ഈശോയേ, ഞങ്ങളുടെ ജീവിതത്തിലെ ബന്ധനങ്ങൾ മാറ്റി, അവിടുത്തെ തിരുരക്തം ഒഴുക്കി, പരിശുദ്ധ അമ്മയുടെ വിമലഹൃദയത്തിന്റെ യോഗ്യതയാൽ, കോടാനുകോടി മാലാഖമാരുടെയും, സ്വർഗ്ഗീയ മധ്യസ്ഥരുടെയും, രക്ത സാക്ഷികളുടെയും, വേദസാക്ഷികളുടെയും, സഹായവും സംരക്ഷണവും നൽകി അങ്ങയുടെ നാമത്തിൽ പിതാവിനോട് ചോദിക്കുന്ന ഈ കാര്യം (ആവശ്യം പറയുക) സാധിച്ചു തരണമേ",
-    "en": "Lord Jesus, break every bondage in our lives. Pour out Your Precious Blood upon us, and through the merits of the Immaculate Heart of our Blessed Mother, grant us the help and protection of the countless hosts of Angels, the Heavenly Intercessors, the Martyrs and the Confessors. In Your Holy Name we ask the Father for this intention (mention your intention). Graciously grant it to us. Amen."
-  },
-  "note": {
-    "ml": "ആവർത്തിച്ചു ചൊല്ലാവുന്നതാണ്",
-    "en": "This prayer may be repeated."
-  },
-  "verse": {
-    "ml": "നിങ്ങൾ എന്റെ നാമത്തിൽ ആവശ്യപെടുന്നതെന്തും പിതാവ് പുത്രനിൽ മഹത്വ പെടാൻ വേണ്ടി ഞാൻ പ്രവർത്തിക്കും",
-    "en": "Whatever you ask in my name, I will do, that the Father may be glorified in the Son.",
-    "reference": {
-      "ml": "യോഹന്നാൻ 14:13",
-      "en": "John 14:13"
-    }
-  }
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "കർത്താവായ ഈശോയേ, അങ്ങു കുരിശിൽ ചിന്തിയ തിരുരക്തത്തിന്റെ യോഗ്യതയാലും കുരിശിലെ വിജയത്താലും അങ്ങയോടു ഐക്യപ്പെട്ടു പ്രാർത്ഥിക്കുന്ന എന്നെയും എന്റെ കുടുംബത്തെയും (സമൂഹം) ബന്ധുമിത്രാദികളെയും ഭവനങ്ങളെയും പരിസരത്തെയും അങ്ങയുടെ തിരുരക്തം കൊണ്ട് പൊതിഞ്ഞു, എല്ലാ പൈശാചിക ശക്തികളുടെ ആക്രമണങ്ങളിൽ നിന്നും സംരക്ഷിക്കണമേ. ഞങ്ങളെ ഉപദ്രവിക്കുന്ന എല്ലാ അന്ധകാര ശക്തികളെയും, ദുഷ്ട പിശാചുക്കളെയും അവയുടെ പ്രവർത്തനങ്ങളെയും, കർത്താവായ യേശുവേ അങ്ങയുടെ നാമത്തിൽ ബന്ധിച്ചു ഞങ്ങളെ രക്ഷിക്കണമേ ആമേൻ",
+          "en": "Lord Jesus, by the merits of the Precious Blood You shed on the Cross and by Your victory on the Cross, cover me, who pray in union with You, my family (community), my relatives and friends, our homes and our surroundings with Your Precious Blood, and protect us from every attack of the evil powers. Lord Jesus, in Your name, bind all the powers of darkness, the evil spirits and all their works that trouble us, and save us. Amen."
+        }
+      ],
       "image": "images/deliverance-short.jpg",
       "published": true
     },
@@ -53,10 +47,27 @@
         "ml": "വലിയ വിടുതൽ പ്രാർത്ഥന",
         "en": "Deliverance Prayer Long"
       },
-      "body": {
-        "ml": "കർത്താവായ ഈശോയേ, ഞങ്ങളുടെ ജീവിതത്തിലെ ബന്ധനങ്ങൾ മാറ്റി, അവിടുത്തെ തിരുരക്തം ഒഴുക്കി, പരിശുദ്ധ അമ്മയുടെ വിമലഹൃദയത്തിന്റെ യോഗ്യതയാൽ, കോടാനുകോടി മാലാഖമാരുടെയും, സ്വർഗ്ഗീയ മധ്യസ്ഥരുടെയും, രക്ത സാക്ഷികളുടെയും, വേദസാക്ഷികളുടെയും, സഹായവും സംരക്ഷണവും നൽകി അങ്ങയുടെ നാമത്തിൽ പിതാവിനോട് ചോദിക്കുന്ന ഈ കാര്യം (ആവശ്യം പറയുക) സാധിച്ചു തരണമേ\n\nആവർത്തിച്ചു ചൊല്ലാവുന്നതാണ്\n\nവചനം: നിങ്ങൾ എന്റെ നാമത്തിൽ ആവശ്യപെടുന്നതെന്തും പിതാവ് പുത്രനിൽ മഹത്വ പെടാൻ വേണ്ടി ഞാൻ പ്രവർത്തിക്കും (യോഹന്നാൻ 14:13)",
-        "en": "Lord Jesus, remove the bondages in our lives and pour out Your Precious Blood. Through the merits of the Immaculate Heart of our Blessed Mother, and with the help and protection of the countless angels, the heavenly intercessors, the martyrs and the confessors of the faith, grant us this intention (state your need), which we ask of the Father in Your name.\n\nThis prayer may be repeated.\n\nWord of God: \"Whatever you ask in my name, I will do, so that the Father may be glorified in the Son.\" (John 14:13)"
-      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "കർത്താവായ ഈശോയേ, ഞങ്ങളുടെ ജീവിതത്തിലെ ബന്ധനങ്ങൾ മാറ്റി, അവിടുത്തെ തിരുരക്തം ഒഴുക്കി, പരിശുദ്ധ അമ്മയുടെ വിമലഹൃദയത്തിന്റെ യോഗ്യതയാൽ, കോടാനുകോടി മാലാഖമാരുടെയും, സ്വർഗ്ഗീയ മധ്യസ്ഥരുടെയും, രക്ത സാക്ഷികളുടെയും, വേദസാക്ഷികളുടെയും, സഹായവും സംരക്ഷണവും നൽകി അങ്ങയുടെ നാമത്തിൽ പിതാവിനോട് ചോദിക്കുന്ന ഈ കാര്യം (ആവശ്യം പറയുക) സാധിച്ചു തരണമേ",
+          "en": "Lord Jesus, break every bondage in our lives. Pour out Your Precious Blood upon us, and through the merits of the Immaculate Heart of our Blessed Mother, grant us the help and protection of the countless hosts of Angels, the Heavenly Intercessors, the Martyrs and the Confessors. In Your Holy Name we ask the Father for this intention (mention your intention). Graciously grant it to us. Amen."
+        },
+        {
+          "type": "instruction",
+          "ml": "ആവർത്തിച്ചു ചൊല്ലാവുന്നതാണ്",
+          "en": "This prayer may be repeated."
+        },
+        {
+          "type": "verse",
+          "ml": "നിങ്ങൾ എന്റെ നാമത്തിൽ ആവശ്യപെടുന്നതെന്തും പിതാവ് പുത്രനിൽ മഹത്വ പെടാൻ വേണ്ടി ഞാൻ പ്രവർത്തിക്കും",
+          "en": "Whatever you ask in my name, I will do, that the Father may be glorified in the Son.",
+          "reference": {
+            "ml": "യോഹന്നാൻ 14:13",
+            "en": "John 14:13"
+          }
+        }
+      ],
       "image": "images/deliverance-long.jpg",
       "published": true
     },
@@ -66,10 +77,7 @@
         "ml": "ദൈവ മാതാവിനോടുള്ള ജപമാല പ്രാർത്ഥന",
         "en": "Rosary to the Mother of God"
       },
-      "body": {
-        "ml": "",
-        "en": ""
-      },
+      "blocks": [],
       "image": "images/rosary-mother.jpg",
       "published": true
     },
@@ -79,10 +87,7 @@
         "ml": "അന്തരീക്ഷ വിശുദ്ധീകരണ പ്രാർത്ഥന",
         "en": "Prayer for Purifying the Atmosphere"
       },
-      "body": {
-        "ml": "",
-        "en": ""
-      },
+      "blocks": [],
       "image": "images/atmosphere.jpg",
       "published": true
     },
@@ -92,10 +97,7 @@
         "ml": "വി. മിഖായേൽ മാലാഖയോടുള്ള പ്രാർത്ഥന",
         "en": "Prayer to St. Michael the Archangel"
       },
-      "body": {
-        "ml": "",
-        "en": ""
-      },
+      "blocks": [],
       "image": "images/st-michael.jpg",
       "published": true
     },
@@ -105,10 +107,7 @@
         "ml": "യാത്ര ആരംഭിക്കും മുമ്പുള്ള പ്രാർത്ഥന",
         "en": "Prayer Before a Journey"
       },
-      "body": {
-        "ml": "",
-        "en": ""
-      },
+      "blocks": [],
       "image": "images/journey.jpg",
       "published": true
     },
@@ -118,12 +117,24 @@
         "ml": "ഗർഭസ്ഥ ശിശുക്കളുടെ സംരക്ഷണത്തിന്",
         "en": "For the Protection of Unborn Children"
       },
-      "body": {
-        "ml": "\"ഞാൻ വന്നിരിക്കുന്നത് അവർക്കു ജീവനുണ്ടാകുവാനും, അത് സമൃദ്ധമായി ഉണ്ടാകുവാനുമാണ്'\nയോഹന്നാൻ 10:10\n\nജീവന്റെ ഉടയവനായ ഈശോനാഥാ, അങ്ങ് ജീവൻ നൽകിയിരിക്കുന്ന എല്ലാ ഗർഭസ്ഥ ശിശുക്കളെയും അങ്ങയുടെ പരിശുദ്ധ അമ്മ വഴി അങ്ങേയ്ക്കു സമർപ്പിക്കുന്നു. അമ്മെ, എല്ലാ ഗർഭിണികൾക്ക് വേണ്ടിയും അങ്ങ് മാധ്യസ്ഥം വഹിക്കണമേ. ജനിക്കുവാൻ കൊതിക്കുന്ന എല്ലാ കുഞ്ഞുങ്ങളെയും അനുഗ്രഹിക്കേണമേ. ഗർഭ ഛിദ്ദ്രത്തിനായി നിർബന്ധിക്കപ്പെടുന്ന സ്ത്രീകളെയും, അജ്ഞത മൂലമോ ക്രൂരത മൂലമോ സ്വന്തം  കുഞ്ഞുങ്ങളെ വധിക്കുവാനൊരുങ്ങുന്ന അപ്പനമ്മമാരെയും, അതിനു സഹകരിക്കുന്ന എല്ലാവരെയും കാരുണ്ണ്യപൂർവം ആ ഉദ്യമത്തിൽ നിന്നും പിൻതിരിപ്പിക്കണമേ. 'അമ്മ ഉണ്ണിഈശോയെ വളർത്തിയത് പോലെ എല്ലാ ശിശുക്കളെയും വളർത്തുവാൻ അവരെ അനുഗ്രഹിക്കണമേ.\nആമ്മേൻ",
-        "en": "\"I have come that they may have life, and have it to the full.\"\n— John 10:10\n\nJesus, the Lord of Life, we offer to You through Your Holy Mother all the unborn children to whom You have given life. O Mother, intercede for all pregnant women. Bless all the children who yearn to be born. Mercifully turn away those women who are being forced into abortion, the parents who prepare to take the lives of their own children due to ignorance or cruelty, and all those who cooperate in it. Bless them to raise all children just as Mother Mary raised the Child Jesus. Amen."
-      },
-      "image":"images/unbornbabies.png",
-      "bannerFocus":"50%",
+      "blocks": [
+        {
+          "type": "verse",
+          "ml": "ഞാൻ വന്നിരിക്കുന്നത് അവർക്കു ജീവനുണ്ടാകുവാനും, അത് സമൃദ്ധമായി ഉണ്ടാകുവാനുമാണ്",
+          "en": "I have come that they may have life, and have it to the full.",
+          "reference": {
+            "ml": "യോഹന്നാൻ 10:10",
+            "en": "John 10:10"
+          }
+        },
+        {
+          "type": "text",
+          "ml": "ജീവന്റെ ഉടയവനായ ഈശോനാഥാ, അങ്ങ് ജീവൻ നൽകിയിരിക്കുന്ന എല്ലാ ഗർഭസ്ഥ ശിശുക്കളെയും അങ്ങയുടെ പരിശുദ്ധ അമ്മ വഴി അങ്ങേയ്ക്കു സമർപ്പിക്കുന്നു. അമ്മെ, എല്ലാ ഗർഭിണികൾക്ക് വേണ്ടിയും അങ്ങ് മാധ്യസ്ഥം വഹിക്കണമേ. ജനിക്കുവാൻ കൊതിക്കുന്ന എല്ലാ കുഞ്ഞുങ്ങളെയും അനുഗ്രഹിക്കേണമേ. ഗർഭ ഛിദ്ദ്രത്തിനായി നിർബന്ധിക്കപ്പെടുന്ന സ്ത്രീകളെയും, അജ്ഞത മൂലമോ ക്രൂരത മൂലമോ സ്വന്തം  കുഞ്ഞുങ്ങളെ വധിക്കുവാനൊരുങ്ങുന്ന അപ്പനമ്മമാരെയും, അതിനു സഹകരിക്കുന്ന എല്ലാവരെയും കാരുണ്ണ്യപൂർവം ആ ഉദ്യമത്തിൽ നിന്നും പിൻതിരിപ്പിക്കണമേ. 'അമ്മ ഉണ്ണിഈശോയെ വളർത്തിയത് പോലെ എല്ലാ ശിശുക്കളെയും വളർത്തുവാൻ അവരെ അനുഗ്രഹിക്കണമേ.\nആമ്മേൻ",
+          "en": "Jesus, the Lord of Life, we offer to You through Your Holy Mother all the unborn children to whom You have given life. O Mother, intercede for all pregnant women. Bless all the children who yearn to be born. Mercifully turn away those women who are being forced into abortion, the parents who prepare to take the lives of their own children due to ignorance or cruelty, and all those who cooperate in it. Bless them to raise all children just as Mother Mary raised the Child Jesus. Amen."
+        }
+      ],
+      "image": "images/unbornbabies.png",
+      "bannerFocus": "50%",
       "published": true
     }
   ]
