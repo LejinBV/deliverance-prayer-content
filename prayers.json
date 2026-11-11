@@ -26,6 +26,32 @@
       "published": true
     },
     {
+      "id": "deliverance-prayer-short",
+      "title": {
+        "ml": "വിമോചനപ്രാർത്ഥന",
+        "en": "Prayer for Deliverance"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "കർത്താവായ ഈശോയേ, ഞങ്ങളുടെ ജീവിതത്തിലെ ബന്ധനങ്ങൾ മാറ്റി, അവിടുത്തെ തിരുരക്തം ഒഴുക്കി, പരിശുദ്ധ അമ്മയുടെ വിമലഹൃദയത്തിന്റെ യോഗ്യതയാൽ, കോടാനുകോടി മാലാഖമാരുടെയും, സ്വർഗ്ഗീയ മധ്യസ്ഥരുടെയും, രക്ത സാക്ഷികളുടെയും, വേദസാക്ഷികളുടെയും, സഹായവും സംരക്ഷണവും നൽകി അങ്ങയുടെ നാമത്തിൽ പിതാവിനോട് ചോദിക്കുന്ന ഈ കാര്യം (ആവശ്യം പറയുക) സാധിച്ചു തരണമേ",
+          "en": "Lord Jesus, break every bondage in our lives. Pour out Your Precious Blood upon us, and through the merits of the Immaculate Heart of our Blessed Mother, grant us the help and protection of the countless hosts of Angels, the Heavenly Intercessors, the Martyrs and the Confessors. In Your Holy Name we ask the Father for this intention (mention your intention). Graciously grant it to us. Amen."
+        },
+        {
+          "type": "verse",
+          "ml": "നിങ്ങൾ എന്റെ നാമത്തിൽ ആവശ്യപെടുന്നതെന്തും പിതാവ് പുത്രനിൽ മഹത്വ പെടാൻ വേണ്ടി ഞാൻ പ്രവർത്തിക്കും",
+          "en": "Whatever you ask in my name, I will do, that the Father may be glorified in the Son.",
+          "reference": {
+            "ml": "യോഹന്നാൻ 14:13",
+            "en": "John 14:13"
+          }
+        }
+      ],
+      "image": "images/new-prayer-id.jpg",
+      "bannerFocus": "30%",
+      "published": false
+    },
+    {
       "id": "deliverance-short",
       "title": {
         "ml": "ചെറിയ വിടുതൽ പ്രാർത്ഥന",
