@@ -16,9 +16,98 @@
       },
       "blocks": [
         {
+          "type": "verse",
+          "ml": "ദുരിതങ്ങളിൽ അകപ്പെട്ടപ്പോൾ ഞാൻ കർത്താവിനെ വിളിച്ചപേക്ഷിച്ചു എൻ്റെ പ്രാർത്ഥന കേട്ട് അവിടുന്നു എന്നെ മോചിപ്പിച്ചു",
+          "en": "In my distress I called upon the Lord; He heard my prayer and set me free.",
+          "reference": {
+            "ml": "സങ്കീ. 118:5",
+            "en": "Psalm 118:5"
+          }
+        },
+        {
+          "type": "instruction",
+          "ml": "ജെറിക്കോപ്രാർത്ഥനകളിലേക്ക് ആരേയും നിർബന്ധിച്ച് വിളിച്ച് ചേർക്കരുത്. ഈ പ്രാർത്ഥന സമയങ്ങളിൽ ആരും നിലത്തോ കസേരയിലോ ഇരിക്കാതെ തുടക്കത്തിൽ നിന്നുകൊണ്ടും പിന്നീട് നടന്നുകൊണ്ടും പൂർത്തിയാക്കുക. സഹോദരങ്ങളെ, മനസ്സിലാക്കുക ജെറിക്കോ പട്ടണത്തിനു ചുറ്റും ഉണ്ടായിരുന്ന വൻകോട്ട തകർന്നുവീണത് ആൾബലം കൊണ്ടോ, സൈനികബലം കൊണ്ടോ അല്ല. മറിച്ച് ദൈവികശക്തിയാൽ മാത്രമാണെന്ന് ജോഷ്വ അദ്ധ്യായം 6 വ്യക്തമാക്കുന്നു. ഇന്നു വ്യക്തികൾക്കു ചുറ്റിനും കുടുംബങ്ങൾക്ക് ചുറ്റിനും പുരയിടങ്ങൾക്ക് ചുറ്റിനും സമൂഹങ്ങൾക്ക് ചുറ്റിനും അനേകതരത്തിലുള്ള കോട്ടകൾ സാത്താൻ സൃഷ്ടിച്ചിട്ടുണ്ട്. അദൃശ്യമായ ഈ കോട്ടകൾ ഏത് തരത്തിലുള്ളവയാണെങ്കിലും ജെരീക്കോപ്രാർത്ഥനവഴി കർത്താവ് തകർക്കുകതന്നെ ചെയ്യും എന്നു വിശ്വസിക്കുക",
+          "en": "Do not compel anyone to join the Jericho Prayer. During this prayer, no one should sit on the floor or on a chair: begin standing, and then complete it while walking. Brothers and sisters, understand that the great wall around the city of Jericho did not fall by human strength or military power, but by the power of God alone, as Joshua chapter 6 makes clear. Today Satan has built many kinds of walls around individuals, families, homes and properties, and communities. Believe that, whatever kind these invisible walls may be, the Lord will surely break them down through the Jericho Prayer."
+        },
+        {
           "type": "text",
-          "ml": "ത്രിത്വത്തിന്റെ സംരക്ഷണം പരിശുദ്ധനായ ബാവ തമ്പുരാനെ, നിന്റെ പരിശുദ്ധ തിരുനാമത്താൽ ഞങ്ങളെ കാത്തുകൊള്ളണമേ. രക്ഷിതാവായ പുത്രൻ തമ്പുരാനെ, നിന്റെ ജയമുള്ള സ്ലീബായാൽ † ഞങ്ങളെ മറച്ചുകൊള്ളണമേ. പരിശുദ്ധനായ റൂഹാ തമ്പുരാനെ ഞങ്ങളെ നിന്റെ അധിവാസത്തിനു ഭവനങ്ങളാക്കി തീർക്കണമേ. ഞങ്ങളുടെ ദൈവമായ കർത്താവെ എല്ലാ സമയത്തും നിന്റെ ദൈവത്വത്തിന്റെ ചിറകുകളുടെ കീഴിൽ ഞങ്ങളെ മറച്ചു കൊള്ളണമേ.",
-          "en": ""
+          "ml": "അത്യുന്നതങ്ങളിൽ ദൈവത്തിനു സ്തുതി (3) ആമേൻ.",
+          "en": "Glory to God in the highest (3 times). Amen."
+        },
+        {
+          "type": "text",
+          "ml": "ഭൂമിയിൽ മനുഷ്യർക്കു സമാധാനവും പ്രത്യാശയും എപ്പോഴും എന്നേയ്ക്കും. ആമേൻ.",
+          "en": "And on earth peace and hope to all people, always and forever. Amen."
+        },
+        {
+          "type": "text",
+          "ml": "സ്വർഗ്ഗസ്ഥനായ ഞങ്ങളുടെ പിതാവേ...",
+          "en": "Our Father, who art in heaven..."
+        },
+        {
+          "type": "text",
+          "ml": "ഞങ്ങളുടെ കർത്താവേ, ഞങ്ങളുടെ ദൈവമേ അങ്ങേ തിരുനാമം വിളിച്ചപേക്ഷിക്കുവാൻ കരുണാപൂർവ്വം ഞങ്ങളെ യോഗ്യമാക്കണമേ. ഞങ്ങളെ ഭരമേൽപ്പിച്ചിരിക്കുന്ന ശുശ്രൂഷ വിശുദ്ധിയോടും ശുദ്ധമനസാക്ഷിയോടും കൂടെ നിർവ്വഹിക്കുവാൻ പ്രകാശവും ശക്തിയും ഞങ്ങൾക്ക് നൽകണമേ. പിതാവും പുത്രനും പരിശുദ്ധാത്മാവുമായ സർവ്വേശ്വരാ എന്നേയ്ക്കും ആമേൻ.",
+          "en": "O our Lord, O our God, in Your mercy make us worthy to call upon Your Holy Name. Grant us light and strength to carry out the ministry entrusted to us with holiness and a pure conscience. O Father, Son and Holy Spirit, Almighty God, forever. Amen."
+        },
+        {
+          "type": "instruction",
+          "ml": "വചനഭാഗങ്ങൾ - യോശുവ 6:1-27, അപ്പ.പ്രവ. 16:25-൩൪",
+          "en": "Scripture readings: Joshua 6:1-27; Acts 16:25-34"
+        },
+        {
+          "type": "heading",
+          "ml": "സങ്കീർത്തനം 91 ഏറ്റുചൊല്ലി പ്രാർത്ഥിക്കുക",
+          "en": "Pray Psalm 91, repeating it together"
+        },
+        {
+          "type": "text",
+          "ml": "അത്യുന്നതന്റെ സംരക്ഷണത്തിൽ വസിക്കുന്നവനും, സർവ്വക്തന്റെ തണലിൽ കഴിയുന്നവനും, കർത്താവിനോട് എന്റെ സങ്കേതവും, എന്റെ കോട്ടയും, ഞാൻ ആശ്രയിക്കുന്ന എന്റെ ദൈവവും എന്നു പറയും.\nഅവിടുന്നു നിന്നെ വേടന്റെ കെണിയിൽ നിന്നും, മാരകമായ മഹാമാരിയിൽ നിന്നും രക്ഷിക്കും. തന്റെ തൂവലുകൾകൊണ്ട് അവിടുന്നു നിന്നെ മറച്ചുകൊള്ളും, അവിടത്തെ ചിറകുകളുടെ കീഴിൽ നിനക്ക് അഭയം ലഭിക്കും.\nഅവിടത്തെ വിശ്വസ്തത നിനക്ക് കവചവും പരിചയും ആയിരിക്കും.\nരാത്രിയിലെ ഭീകരതയെയും, പകൽ പറക്കുന്ന അസ്ത്രത്തെയും നീ ഭയപ്പെടേണ്ട.\nഇരുട്ടിൽ സഞ്ചരിക്കുന്ന മഹാമാരിയെയും, നട്ടുച്ചയ്ക്ക് വരുന്ന വിനാശത്തെയും നീ പേടിക്കേണ്ട.\nനിന്റെ പാർശ്വങ്ങളിൽ ആയിരങ്ങൾ മരിച്ചുവീണേക്കാം, നിന്റെ വലതുവശത്തു പതിനായിരങ്ങളും, എങ്കിലും നിനക്ക് ഒരനർത്ഥവും സംഭവിക്കുകയില്ല.\nദുഷ്ടരുടെ പ്രതിഫലം നിന്റെ കണ്ണുകൾകൊണ്ടുതന്നെ നീ കാണും.\nനീ കർത്താവിൽ ആശ്രയിച്ച്, അത്യുന്നതനിൽ നീ വാസമുറപ്പിച്ചു.\nനിനക്ക് ഒരു തിന്മയും ഭവിക്കുകയില്ല, ഒരനർത്ഥവും നിന്റെ കൂടാരത്തെ സമീപിക്കുകയില്ല,\nനിന്റെ വഴികളിൽ നിന്നെ കാത്തുപാലിപ്പാൻ അവിടുന്നു തന്റെ ദൂതന്മാരോടു കൽപ്പിക്കും.\nനിന്റെ പാദം കല്ലിൽ തട്ടാതിരിക്കാൻ അവർ നിന്നെ കൈകളിൽ വഹിച്ചുകൊള്ളും.\nസിംഹത്തിന്റെയും അണലിയുടെയും മേൽ നീ ചവിട്ടി നടക്കും, യുവസിംഹത്തെയും സർപ്പത്തെയും നീ ചവിട്ടിമെത്തിക്കും.\nഅവൻ സ്നേഹത്തിൽ എന്നോട് ഒട്ടി നിൽക്കുന്നതിനാൽ, ഞാൻ അവനെ രക്ഷിക്കും,\nഅവൻ എന്റെ നാമം അറിയുന്നതുകൊണ്ട്, ഞാൻ അവനെ സംരക്ഷിക്കും.\nഅവൻ എന്നെ വിളിച്ചപേക്ഷിക്കുമ്പോൾ, ഞാൻ ഉത്തരമരുളും,\nഅവന്റെ കഷ്ടതയിൽ ഞാൻ അവനോടു ചേർന്നു നിൽക്കും, ഞാൻ അവനെ മോചിപ്പിക്കുകയും മഹത്വപ്പെടുത്തുകയും ചെയ്യും.\nദീർഘായുസ്സു നൽകി ഞാൻ അവനെ സംതൃപ്തനാക്കും, എന്റെ രക്ഷ ഞാൻ അവനു കാണിച്ചുകൊടുക്കും.",
+          "en": "You who dwell in the shelter of the Most High, who abide in the shadow of the Almighty, will say to the Lord, \"My refuge and my fortress, my God in whom I trust.\"\nHe will deliver you from the snare of the fowler and from the deadly pestilence. He will cover you with His feathers, and under His wings you will find refuge.\nHis faithfulness will be your shield and buckler.\nYou will not fear the terror of the night, nor the arrow that flies by day,\nnor the pestilence that stalks in darkness, nor the destruction that strikes at noonday.\nA thousand may fall at your side, ten thousand at your right hand, yet no harm will come to you.\nWith your own eyes you will see the reward of the wicked.\nBecause you have made the Lord your refuge, and the Most High your dwelling place,\nno evil shall befall you, no disaster shall come near your tent.\nFor He will command His angels concerning you, to guard you in all your ways.\nOn their hands they will bear you up, so that you will not strike your foot against a stone.\nYou will tread on the lion and the adder; the young lion and the serpent you will trample underfoot.\nBecause he clings to me in love, I will deliver him;\nbecause he knows my name, I will protect him.\nWhen he calls to me, I will answer him;\nI will be with him in trouble; I will rescue him and honour him.\nWith long life I will satisfy him, and show him my salvation."
+        },
+        {
+          "type": "instruction",
+          "ml": "ശക്തമായി സ്തുതിക്കുക...",
+          "en": "Praise the Lord with all your strength..."
+        },
+        {
+          "type": "instruction",
+          "ml": "സാധാരണപോലെ ജപമാല ആരംഭിക്കുക. ഓരോ ദിവ്യരഹസ്യവും ചൊല്ലിയതിനു ശേഷം ധ്യാനിക്കുക. അതിനു ശേഷം എല്ലാവരും ചേർന്ന് എന്റെ കർത്താവേ, എന്റെ ദൈവമേ..... എന്ന പ്രാർത്ഥന ചൊല്ലുക ഓരോ ദിവ്യരഹസ്യവും ധ്യാനിച്ചതിനുശേഷം പ്രാർത്ഥന ചൊല്ലണം",
+          "en": "Begin the Rosary as usual. After announcing each mystery, meditate on it. Then all together pray the prayer \"My Lord, my God...\". This prayer is to be said after meditating on each mystery."
+        },
+        {
+          "type": "heading",
+          "ml": "പ്രാർത്ഥന",
+          "en": "Prayer"
+        },
+        {
+          "type": "text",
+          "ml": "എന്റെ കർത്താവേ, എന്റെ ദൈവമേ, ഞങ്ങളെ രക്ഷിക്കണമേ, അങ്ങേ മക്കളോട് കരുണകാണിക്കണമേ, എന്നിലോ എന്റെ മാതാപിതാക്കളിലോ (ജീവിതപങ്കാളിയിലോ, മക്കളിലോ, കൊച്ചുമക്കളിലോ) സഹോദരീസഹോദരന്മാരിലോ ബന്ധുമിത്രാദികളിലോ ഈ ഭവനത്തിലോ, ഈ ഭവനത്തിൽ വസിക്കുന്ന മറ്റ് മക്കളിലോ ഈ ഭവനം ഇരിക്കുന്ന പുരയിടത്തിന്റെ അതിർത്തിക്കുള്ളിലോ, ഏതെങ്കിലും തരത്തിലുള്ള തിന്മയുടെ ശക്തികൾ, അന്ധകാരശക്തികൾ, സാത്താന്റെ സൈന്യങ്ങളുടെ ശക്തികൾ പ്രവർത്തിക്കുന്നുണ്ടെങ്കിൽ ആ ശക്തികളെ വിശുദ്ധ കുരിശിന്റെ അടയാളത്താൽ നിർവീര്യമാക്കി തരുമാറാകണമേ.\n\nആമേൻ.",
+          "en": "My Lord, my God, save us; have mercy on Your children. If any forces of evil, powers of darkness, or powers of Satan's armies are at work in me or in my parents (spouse, children, grandchildren), in my brothers and sisters, relatives and friends, in this home, in the other children living in this home, or within the boundaries of the land on which this home stands, render those powers powerless by the sign of the Holy Cross.\n\nAmen."
+        },
+        {
+          "type": "instruction",
+          "ml": "ഈ പ്രാർത്ഥന എല്ലാവരും ചേർന്ന് ഉച്ചത്തിൽ ചൊല്ലുക. തുടർന്ന് 1.സ്വർഗ്ഗ.10 നന്മ 1. ത്രിത്വ. ചൊல்லியതിനുശേഷം 1-ാം ദിവ്യരഹസ്യം സാധാരണപോലെ കാഴ്ചവയ്ക്കുന്നു. തുടർന്ന് 2-ാം ദിവ്യരഹസ്യം ഒരാൾ ചൊല്ലുന്നു. അതിനുശേഷം എല്ലാവരും ചേർന്ന് എന്റെ കർത്താവേ.... എന്ന പ്രാർത്ഥന ഉറക്കെ ചൊല്ലിയതിനു ശേഷം ഒരാൾ സ്വർഗ്ഗ....... ചൊല്ലുന്നതോടൊപ്പം ഓരോരുത്തരായി ഏറ്റവും അടുത്ത മുറിയിലേക്ക് നടക്കുന്നു. ഇങ്ങനെ ഭവനത്തിലെ എല്ലാമുറികളിലും പോയി പ്രാർത്ഥിച്ചതിനുശേഷം ഭവനത്തിന്റെ മുൻവശത്തെ മുറ്റത്തേയ്ക്ക് ഓരോരുത്തരായി ഇറങ്ങിപ്പോവുക എല്ലാവരും ഒരറ്റത്ത് എത്തിയതിനുശേഷം മുറികളിൽ എപ്രകാരം പ്രാർത്ഥിച്ചോ അതുപോലെതന്നെ ഭവനത്തിന്റെ നാലുവശങ്ങളിൽ നിന്ന് കൊണ്ട് ഓരോ ദിവ്യരഹസ്യങ്ങൾ ചൊല്ലുക. സാധാരണപോലെ ഇരുനൂറ്റിമൂന്നുമണി ജപം സമർപ്പിക്കുക. ലുത്തിനിയ ചൊല്ലുകയോ പാടുകയോ ചെയ്യാം. താഴെ കൊടുത്തിരിക്കുന്ന പ്രാർത്ഥനയും ചൊല്ലി സ്തുതിക്കുക.",
+          "en": "Pray this prayer aloud all together. Then, after praying 1 Our Father, 10 Hail Marys and 1 Glory Be, offer the 1st mystery as usual. Next, one person announces the 2nd mystery. After everyone prays \"My Lord...\" aloud together, one person prays the Our Father while everyone walks, one by one, to the nearest room. After praying in this way in every room of the home, go out one by one to the front yard. When everyone has reached one end, pray one mystery on each of the four sides of the home, just as you prayed in the rooms. Offer the 203-bead Rosary as usual. The Litany may be said or sung. Pray the prayer given below and praise God."
+        },
+        {
+          "type": "heading",
+          "ml": "നമുക്കു പ്രാർത്ഥിക്കാം",
+          "en": "Let us pray"
+        },
+        {
+          "type": "text",
+          "ml": "കർത്താവായ ഈശോയെ അങ്ങയുടെ യോഗ്യതകളാലും അങ്ങ് ചിന്തിയ അമൂല്യമായ തിരുരക്തത്തിലുള്ള വിശ്വാസത്താലും എന്റെ ജീവന്റെ മേൽ തികഞ്ഞതും സമ്പൂർണ്ണവുമായ സംരക്ഷണം ഞാൻ അവകാശപ്പെടുന്നു. കർത്താവായ ഈശോയെ എനിക്ക് ഉപദ്രവകരവും തിന്മയുമായി ഭവിക്കാവുന്നതുമായ എല്ലാത്തിൽനിന്നും എന്നെ കാക്കുകയും സംരക്ഷിക്കുകയും ചെയ്യണമേ. കർത്താവായ ഈശോയെ, സർവ്വതിന്മകളിൽ നിന്നും സാത്താന്റെ ആക്രമണങ്ങളിൽ നിന്നും രോഗപീഡകളിൽ നിന്നും യാദൃശ്ചികമായ അപകടങ്ങളിൽനിന്നും മരണത്തിൽനിന്നും പ്രകൃതിയിലുണ്ടാകുന്ന എല്ലാ അത്യാഹിതങ്ങളിൽനിന്നും എന്നെ സംരക്ഷിക്കണമേ.\n\nആമേൻ",
+          "en": "Lord Jesus, through Your merits and through faith in the precious Blood You shed, I claim full and complete protection over my life. Lord Jesus, guard and protect me from everything that may be harmful or evil to me. Lord Jesus, protect me from all evil, from the attacks of Satan, from sickness and suffering, from sudden accidents, from death, and from every natural calamity.\n\nAmen."
+        },
+        {
+          "type": "instruction",
+          "ml": "സ്വതന്ത്രമായി സ്തുതിക്കുക, യേശുവേ നന്ദി....",
+          "en": "Praise the Lord freely: Jesus, thank You..."
+        },
+        {
+          "type": "instruction",
+          "ml": "ഭവനത്തിന്റെ നാല് വശങ്ങളിൽ ഓരോ ദിവ്യരഹസ്യങ്ങളും ധ്യാനിച്ചു അവസാനത്തെ പ്രാർത്ഥനയും കാഴ്ചവയ്ക്കുമ്പോൾ ഒരു ദിവസത്തെ ജെറിക്കോ പ്രാർത്ഥന കഴിഞ്ഞു. ഇപ്രകാരം ആറ് ദിവസം ജെറിക്കോ പ്രാർത്ഥന പൂർത്തിയാക്കുക. പിന്നീട് ഏഴാമത്തെ ദിവസം ഭവനത്തിനുചുറ്റും നടന്നുകൊണ്ട് തന്നെ നാല് ദിവ്യരഹസ്യങ്ങൾ പൂർത്തിയാക്കുന്നു. നാല് ദിവ്യരഹസ്യങ്ങൾ പൂർത്തിയാകുമ്പോൾ ഭവനത്തിന് ചുറ്റും ഏഴുപ്രാവശ്യം വലം വച്ചിരിക്കണം",
+          "en": "When the mysteries have been meditated on at the four sides of the home and the final prayer has been offered, one day of the Jericho Prayer is complete. Complete the Jericho Prayer in this way for six days. Then, on the seventh day, complete the four mysteries while walking around the home. By the time the four mysteries are finished, you should have gone around the home seven times."
         }
       ],
       "image": "images/jericho.jpg",
@@ -47,8 +136,24 @@
           }
         }
       ],
+      "image": "images/new-prayer-id.jpg",
+      "bannerFocus": "30%",
+      "published": false
+    },
+    {
+      "id": "deliverance-short",
+      "title": {
+        "ml": "ചെറിയ വിടുതൽ പ്രാർത്ഥന",
+        "en": "Deliverance Prayer Short"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "കർത്താവായ ഈശോയേ, അങ്ങു കുരിശിൽ ചിന്തിയ തിരുരക്തത്തിന്റെ യോഗ്യതയാലും കുരിശിലെ വിജയത്താലും അങ്ങയോടു ഐക്യപ്പെട്ടു പ്രാർത്ഥിക്കുന്ന എന്നെയും എന്റെ കുടുംബത്തെയും (സമൂഹം) ബന്ധുമിത്രാദികളെയും ഭവനങ്ങളെയും പരിസരത്തെയും അങ്ങയുടെ തിരുരക്തം കൊണ്ട് പൊതിഞ്ഞു, എല്ലാ പൈശാചിക ശക്തികളുടെ ആക്രമണങ്ങളിൽ നിന്നും സംരക്ഷിക്കണമേ. ഞങ്ങളെ ഉപദ്രവിക്കുന്ന എല്ലാ അന്ധകാര ശക്തികളെയും, ദുഷ്ട പിശാചുക്കളെയും അവയുടെ പ്രവർത്തനങ്ങളെയും, കർത്താവായ യേശുവേ അങ്ങയുടെ നാമത്തിൽ ബന്ധിച്ചു ഞങ്ങളെ രക്ഷിക്കണമേ ആമേൻ",
+          "en": "Lord Jesus, by the merits of the Precious Blood You shed on the Cross and by Your victory on the Cross, cover me, who pray in union with You, my family (community), my relatives and friends, our homes and our surroundings with Your Precious Blood, and protect us from every attack of the evil powers. Lord Jesus, in Your name, bind all the powers of darkness, the evil spirits and all their works that trouble us, and save us. Amen."
+        }
+      ],
       "image": "images/deliverance-short.jpg",
-      "bannerFocus": "0%",
       "published": true
     },
     {
