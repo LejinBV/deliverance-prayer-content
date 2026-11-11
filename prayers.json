@@ -49,7 +49,7 @@
       ],
       "image": "images/new-prayer-id.jpg",
       "bannerFocus": "30%",
-      "published": false
+      "published": true
     },
     {
       "id": "deliverance-short",
