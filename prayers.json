@@ -28,10 +28,22 @@
         "ml": "ചെറിയ വിടുതൽ പ്രാർത്ഥന",
         "en": "Deliverance Prayer Short"
       },
-      "body": {
-        "ml": "കർത്താവായ ഈശോയേ, അങ്ങു കുരിശിൽ ചിന്തിയ തിരുരക്തത്തിന്റെ യോഗ്യതയാലും കുരിശിലെ വിജയത്താലും അങ്ങയോടു ഐക്യപ്പെട്ടു പ്രാർത്ഥിക്കുന്ന എന്നെയും എന്റെ കുടുംബത്തെയും (സമൂഹം) ബന്ധുമിത്രാദികളെയും ഭവനങ്ങളെയും പരിസരത്തെയും അങ്ങയുടെ തിരുരക്തം കൊണ്ട് പൊതിഞ്ഞു, എല്ലാ പൈശാചിക ശക്തികളുടെ ആക്രമണങ്ങളിൽ നിന്നും സംരക്ഷിക്കണമേ. ഞങ്ങളെ ഉപദ്രവിക്കുന്ന എല്ലാ അന്ധകാര ശക്തികളെയും, ദുഷ്ട പിശാചുക്കളെയും അവയുടെ പ്രവർത്തനങ്ങളെയും, കർത്താവായ യേശുവേ അങ്ങയുടെ നാമത്തിൽ ബന്ധിച്ചു ഞങ്ങളെ രക്ഷിക്കണമേ ആമേൻ",
-        "en": "Lord Jesus, by the merits of the Precious Blood You shed on the Cross and by Your victory on the Cross, cover me, who pray in union with You, my family (community), my relatives and friends, our homes and our surroundings with Your Precious Blood, and protect us from every attack of the evil powers. Lord Jesus, in Your name, bind all the powers of darkness, the evil spirits and all their works that trouble us, and save us. Amen."
-      },
+     "body": {
+    "ml": "കർത്താവായ ഈശോയേ, ഞങ്ങളുടെ ജീവിതത്തിലെ ബന്ധനങ്ങൾ മാറ്റി, അവിടുത്തെ തിരുരക്തം ഒഴുക്കി, പരിശുദ്ധ അമ്മയുടെ വിമലഹൃദയത്തിന്റെ യോഗ്യതയാൽ, കോടാനുകോടി മാലാഖമാരുടെയും, സ്വർഗ്ഗീയ മധ്യസ്ഥരുടെയും, രക്ത സാക്ഷികളുടെയും, വേദസാക്ഷികളുടെയും, സഹായവും സംരക്ഷണവും നൽകി അങ്ങയുടെ നാമത്തിൽ പിതാവിനോട് ചോദിക്കുന്ന ഈ കാര്യം (ആവശ്യം പറയുക) സാധിച്ചു തരണമേ",
+    "en": "Lord Jesus, break every bondage in our lives. Pour out Your Precious Blood upon us, and through the merits of the Immaculate Heart of our Blessed Mother, grant us the help and protection of the countless hosts of Angels, the Heavenly Intercessors, the Martyrs and the Confessors. In Your Holy Name we ask the Father for this intention (mention your intention). Graciously grant it to us. Amen."
+  },
+  "note": {
+    "ml": "ആവർത്തിച്ചു ചൊല്ലാവുന്നതാണ്",
+    "en": "This prayer may be repeated."
+  },
+  "verse": {
+    "ml": "നിങ്ങൾ എന്റെ നാമത്തിൽ ആവശ്യപെടുന്നതെന്തും പിതാവ് പുത്രനിൽ മഹത്വ പെടാൻ വേണ്ടി ഞാൻ പ്രവർത്തിക്കും",
+    "en": "Whatever you ask in my name, I will do, that the Father may be glorified in the Son.",
+    "reference": {
+      "ml": "യോഹന്നാൻ 14:13",
+      "en": "John 14:13"
+    }
+  }
       "image": "images/deliverance-short.jpg",
       "published": true
     },
