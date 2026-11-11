@@ -257,7 +257,36 @@
         }
       ],
       "image": "images/journey.jpg",
-      "bannerFocus":"70%",
+      "bannerFocus": "70%",
+      "published": true
+    },
+    {
+      "id": "after-journey",
+      "title": {
+        "ml": "യാത്രയ്ക്ക് ശേഷമുള്ള പ്രാർത്ഥന",
+        "en": "Prayer After a Journey"
+      },
+      "blocks": [
+        {
+          "type": "verse",
+          "ml": "കർത്താവിനു കൃതജ്ഞത അർപ്പിക്കുവീൻ അവിടുന്ന് നല്ലവനാണ്; അവിടുത്തെ കാരുണ്യം എന്നേക്കും നിലനിൽക്കുന്നു.",
+          "en": "Give thanks to the Lord, for He is good; His mercy endures forever.",
+          "reference": {
+            "ml": "സങ്കീർത്തനം 118:1",
+            "en": "Psalm 118:1"
+          }
+        },
+        {
+          "type": "text",
+          "ml": "ഞങ്ങളുടെ രക്ഷകനും നാഥനുമായി ഈശോയെ, ഈ യാത്രയിൽ ഞങ്ങൾക്കനുഭവപെട്ട അങ്ങയുടെ സ്നേഹ പരിപാലനയ്ക് ഞങ്ങൾ നന്ദി പറയുന്നു. അങ്ങയെ സ്തുതിക്കുന്നു. ഇന്നേ ദിവസം ഞങ്ങൾ കണ്ടുമുട്ടിയവരെയും സഹായിച്ചവരെയും സമൃദ്ധമായി അനുഗ്രഹിക്കണമേ.",
+          "en": "Jesus, our Saviour and Lord, we thank You for Your loving care that we experienced on this journey. We praise You. Abundantly bless all whom we met and all who helped us today."
+        },
+        {
+          "type": "text",
+          "ml": "ആമ്മേൻ",
+          "en": "Amen."
+        }
+      ],
       "published": true
     },
     {
