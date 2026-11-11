@@ -287,6 +287,8 @@
           "en": "Amen."
         }
       ],
+      "image": "images/after-journey.png",
+      "bannerFocus": "20%",
       "published": true
     },
     {
