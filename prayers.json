@@ -441,6 +441,28 @@
       "image": "images/addiction.png",
       "bannerFocus": "30%",
       "published": true
+    },
+    {
+      "id": "daily-consecration",
+      "title": {
+        "ml": "ദിനപ്രതിഷ്ഠ",
+        "en": "Daily Consecration"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "കരുണയുള്ള ദൈവമേ, ഈ ദിവസത്തെ നിനക്ക് ഞങ്ങൾ പ്രതിഷ്ഠിക്കുന്നു. ഇന്നേദിവസം തിരുസഭയിൽ എല്ലായിടത്തും അർപ്പിക്കുന്ന കുർബാനകളെയും പ്രാർത്ഥനകളെയും പുണ്യപ്രവർത്തികളെയും നിനക്ക് ഞങ്ങൾ കാഴ്ചവയ്ക്കുന്നു. ഇവയോടുചേർത്ത് ഞങ്ങളുടെ പ്രാർത്ഥനകളെയും സുഖദുഃഖങ്ങളെയും പ്രയത്നങ്ങളെയും ഞങ്ങൾ അർപ്പിക്കുന്നു.\n\nഇന്ന് നിന്റെ വഴിയിൽക്കൂടെ ഞങ്ങളെ നടത്തണമേ. ഇന്നു നിന്റെ ശക്തി ഞങ്ങളെ സഹായിക്കണമേ.\n\nഇന്നത്തെ ഞങ്ങളുടെ സകല വിചാരങ്ങളും വചനങ്ങളും പ്രവൃത്തികളും തിരുനാമമഹത്ത്വത്തിനുതകുന്നവയാക്കി തീർക്കണമേ.\n\nസാത്താന്റെ കെണികളിൽനിന്നും തിന്മയിലേക്കുള്ള പരീക്ഷയിൽനിന്നും ഞങ്ങളെ കാത്തുകൊള്ളണമേ.\n\nകരുണയുള്ള കർത്താവേ, ഇന്നു ഞങ്ങളുടെ മുൻപിലും പിൻപിലും ഞങ്ങളുടെ വലത്തും ഇടത്തും ഞങ്ങൾക്ക് താഴെയും മീതെയും ഞങ്ങളുടെ ഉള്ളിലും എല്ലാ വശത്തും ആയിരുന്ന് ഞങ്ങളെ സംരക്ഷിക്കുകയും പുണ്യപ്പെടുത്തുകയും ചെയ്യണമേ.",
+          "en": "Merciful God, we consecrate this day to You. We offer You all the Holy Masses, prayers and good works offered throughout the Holy Church today. Together with them, we offer You our prayers, our joys and sorrows, and our labours.\n\nLead us today along Your way. May Your strength help us today.\n\nMake all our thoughts, words and deeds today serve the glory of Your Holy Name.\n\nProtect us from the snares of Satan and from temptation to evil.\n\nMerciful Lord, be with us today, before us and behind us, at our right and at our left, beneath us and above us, within us and on every side; protect us and make us holy."
+        },
+        {
+          "type": "text",
+          "ml": "ദൈവമാതാവിന്റെയും സകല വിശുദ്ധരുടെയും പ്രാർത്ഥനാസഹായങ്ങളും അനുഗ്രഹങ്ങളും ഇപ്പോഴും എന്നേക്കും ഞങ്ങൾക്കുണ്ടായിരിക്കണമേ. ആമ്മേൻ.\n\nവി. ത്രിത്വമേ, ആദ്യന്തമില്ലാത്ത നിന്റെ കൃപയും ശക്തിയും ഞങ്ങളുടെ സഹായത്തിനായി അയച്ചുതരണമേ. കർത്താവേ, നിന്റെ രക്ഷ എപ്പോഴും ഞങ്ങൾക്ക് ഉണ്ടായിരിക്കണമേ. ആമ്മേൻ.",
+          "en": "May the prayers and blessings of the Mother of God and of all the saints be with us now and forever. Amen.\n\nO Holy Trinity, without beginning or end, send Your grace and power to help us. Lord, may Your salvation always be with us. Amen."
+        }
+      ],
+      "image":"images/dhinaprathikshta.png",
+      "bannerFocus": "30%",
+      "published": true
     }
   ]
 }
