@@ -187,6 +187,27 @@
       "published": true
     },
     {
+      "id": "salvation-of-souls",
+      "title": {
+        "ml": "ആത്മാക്കളുടെ രക്ഷയ്ക്കായുള്ള പ്രാർത്ഥന",
+        "en": "Prayer for the Salvation of Souls"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "പിതാവിനും പുത്രനും പരിശുദ്ധാത്മാവുമായ ദൈവമേ, അങ്ങയെ അറിയാതെ, മഹത്വപ്പെടുത്താതെ, നന്ദി പറയാതെ, മരിച്ചുപോയ സകല ആത്മാക്കളെയും തിരുമുൻപിൽ സമർപ്പിച്ചു അവരുടെ രക്ഷയ്ക്കായി ഞങ്ങൾ പ്രാർത്ഥിക്കുന്നു. കരുണ്ണ്യവാനായ ദൈവമേ, സകല ആത്മാക്കളോടും പ്രത്യേകിച്ച് ഞങ്ങളുടെ പൂർവീക്കരോടും കരുണ കാണിക്കണമേ. അവരുടെ പാവങ്ങൾ പൊറുക്കണമേ. ശാപങ്ങൾ നീക്കണമേ, കടങ്ങൾ ഇളച്ചുകൊടുക്കണമേ നിത്യരക്ഷ നൽകണമേ. പൂർവീകരിലൂടെ ഞങ്ങളിലേക്ക് വന്നിട്ടുള്ള പാരമ്പര്യ രോഗങ്ങൾ, തകർച്ചകൾ എന്നിവയിൽ നിന്നും പപ്പ ശാപ ബന്ധനങ്ങളിൽ നിന്നും ഞങ്ങളെ മോചിപ്പിക്കണമേ.",
+          "en": "O God, Father, Son and Holy Spirit, we place before You all the souls who died without knowing You, without glorifying You and without giving You thanks, and we pray for their salvation. O merciful God, have mercy on all souls, especially on our ancestors. Forgive their sins, remove their curses, release them from their debts, and grant them eternal salvation. Free us from the hereditary illnesses and breakdowns that have come to us through our ancestors, and from every bond of sin and curse."
+        },
+        {
+          "type": "text",
+          "ml": "ആമേൻ",
+          "en": "Amen."
+        }
+      ],
+      "image": "images/salvationofSaul.jpg",
+      "published": true
+    },
+    {
       "id": "rosary-mother",
       "title": {
         "ml": "ദൈവ മാതാവിനോടുള്ള ജപമാല പ്രാർത്ഥന",
