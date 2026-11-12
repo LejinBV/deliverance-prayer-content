@@ -314,6 +314,32 @@
       "published": true
     },
     {
+      "id": "media-blessing",
+      "title": {
+        "ml": "മാധ്യമങ്ങൾ അനുഗ്രഹപ്രദമാകാൻ",
+        "en": "That the Media May Be a Blessing"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "ആബ്ബാ പിതാവേ, മനുഷ്യരാശിയുടെ നന്മയ്ക്കായി അങ്ങു തന്നനുഗ്രഹിച്ച അത്ഭുത മാർഗ്ഗമായ മാധ്യമങ്ങളെയോർത്ത് ഞങ്ങളങ്ങയെ നന്ദിയോടെ സ്തുതിച്ചാരാധിക്കുന്നു.\n\nമനുഷ്യജീവിതം സുഗമമാക്കുന്നതിനും, മനുഷ്യബന്ധങ്ങൾ കൂടുതൽ ഊഷ്മളമാക്കുന്നതിനും, സുവിശേഷവൽക്കരണം ത്വരിതപ്പെടുത്തുന്നതിനുമായി നിയോഗിക്കപ്പെട്ടിരിക്കുന്ന ഈ മാധ്യമങ്ങളെ വിവിധങ്ങളായ രീതിയിൽ ദുരുപയോഗപ്പെടുത്തുന്നതിനെ ഓർത്ത് ഞങ്ങൾ മാപ്പപേക്ഷിക്കുന്നു.\n\nദൈവപിതാവേ, പരിശുദ്ധാത്മാവിനെ അയച്ച് മാധ്യമങ്ങളെ കൈകാര്യം ചെയ്യുന്നവരെയും, ഉപയോഗിക്കുന്നവരെയും സ്പർശിക്കണമേ. ലോകത്തെ സത്യത്തിലേക്കും സ്നേഹത്തിലേക്കും നയിക്കുവാനുള്ള മനസ്സാക്ഷി കൊടുത്തനുഗ്രഹിക്കണമേ.\n\nവഴിയും സത്യവും ജീവനുമായ യേശുവിനെ എല്ലാ പ്രശ്നങ്ങൾക്കുമുള്ള ഏറ്റവും നല്ല പരിഹാരമായി ഉൾക്കൊണ്ട് മനുഷ്യരാശിയുടെ രക്ഷ സാധ്യമാക്കുവാൻ മാധ്യമങ്ങളെ അങ്ങ് ഉയർത്തണമേ.",
+          "en": "Abba, Father, we praise and worship You with gratitude for the media, a wonderful means You have graciously given for the good of humanity.\n\nWe ask Your forgiveness for the many ways in which these media are misused, though they are meant to make human life easier, to make human relationships warmer, and to hasten the spread of the Gospel.\n\nGod our Father, send the Holy Spirit to touch all who manage the media and all who use them. Bless them with a conscience that leads the world towards truth and love.\n\nRaise up the media to make the salvation of humanity possible, embracing Jesus, the Way, the Truth and the Life, as the best answer to every problem."
+        },
+        {
+          "type": "verse",
+          "ml": "ഭൂമിയുടെ അതിർത്തികൾ വരെ രക്ഷ വ്യാപിപ്പിക്കുന്നതിന് വിജാതിയർക്ക് ഒരു ദീപമായി നിന്നെ ഞാൻ സ്ഥാപിച്ചിരിക്കുന്നു.",
+          "en": "I have set you as a light to the Gentiles, to bring salvation to the ends of the earth.",
+          "reference": {
+            "ml": "അപ്പസ്തോലപ്രവർത്തനങ്ങൾ 13:47",
+            "en": "Acts 13:47"
+          }
+        }
+      ],
+      "image": "images/media.png",
+      "bannerFocus": "20%",
+      "published": true
+    },
+    {
       "id": "unbornBabies",
       "title": {
         "ml": "ഗർഭസ്ഥ ശിശുക്കളുടെ സംരക്ഷണത്തിന്",
