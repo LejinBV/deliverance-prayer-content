@@ -336,7 +336,7 @@
         }
       ],
       "image": "images/media.png",
-      "bannerFocus": "20%",
+      "bannerFocus": "40%",
       "published": true
     },
     {
@@ -363,6 +363,28 @@
       ],
       "image": "images/unbornbabies.png",
       "bannerFocus": "50%",
+      "published": true
+    },
+    {
+      "id": "filled-with-holy-spirit",
+      "title": {
+        "ml": "പരിശുദ്ധാത്മാവിനാൽ നിറയുന്നതിന്",
+        "en": "To Be Filled with the Holy Spirit"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "സർവ്വശക്തനായ ദൈവമേ, അങ്ങയുടെ പുത്രനായ യേശുവിനെ എന്റെ രക്ഷകനും നാഥനുമായി ഞാൻ സ്വീകരിക്കുന്നു.\n\nദൈവ പുത്രനായ ഈശോ തമ്പുരാനേ, അങ്ങയുടെ ദാനവും വാഗ്ദാനവുമായ പരിശുദ്ധാത്മാവിനെ ഞങ്ങളിലേക്ക് അയയ്ക്കണമേ.\n\nപന്തക്കുസ്തായിൽ ഇറങ്ങി വന്ന പരിശുദ്ധാത്മാവേ, വരദാനഫലങ്ങൾ ഞങ്ങളിൽ ജ്വലിപ്പിക്കണമേ.\n\nപരിശുദ്ധാത്മാവേ വരണമേ. അവിടുത്തെ ഇഷ്ടദാസിയായ മറിയത്തിന്റെ വിമല ഹൃദയത്തിന്റെ ശക്തമായ മാധ്യസ്ഥത്താൽ എഴുന്നള്ളിവരണമേ. ഞങ്ങളിൽ വന്ന് വസിക്കണമേ.",
+          "en": "Almighty God, I accept Your Son Jesus as my Saviour and Lord.\n\nLord Jesus, Son of God, send upon us the Holy Spirit, Your gift and Your promise.\n\nHoly Spirit, who came down at Pentecost, set Your gifts and fruits ablaze within us.\n\nCome, Holy Spirit. Through the powerful intercession of the Immaculate Heart of Mary, Your beloved handmaid, come upon us. Come and dwell in us."
+        },
+        {
+          "type": "text",
+          "ml": "ആമ്മേൻ",
+          "en": "Amen."
+        }
+      ],
+      "image": "images/journey.jpg",
+      "bannerFocus": "30%",
       "published": true
     }
   ]
