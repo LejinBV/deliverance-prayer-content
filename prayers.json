@@ -229,16 +229,6 @@
       "published": true
     },
     {
-      "id": "st-michael",
-      "title": {
-        "ml": "വി. മിഖായേൽ മാലാഖയോടുള്ള പ്രാർത്ഥന",
-        "en": "Prayer to St. Michael the Archangel"
-      },
-      "blocks": [],
-      "image": "images/st-michael.jpg",
-      "published": true
-    },
-    {
       "id": "journey",
       "title": {
         "ml": "യാത്ര ആരംഭിക്കും മുമ്പുള്ള പ്രാർത്ഥന",
@@ -460,8 +450,29 @@
           "en": "May the prayers and blessings of the Mother of God and of all the saints be with us now and forever. Amen.\n\nO Holy Trinity, without beginning or end, send Your grace and power to help us. Lord, may Your salvation always be with us. Amen."
         }
       ],
-      "image":"images/dhinaprathikshta.png",
-      "bannerFocus": "70%",
+      "image": "images/dhinaprathikshta.png",
+      "bannerFocus": "30%",
+      "published": true
+    },
+    {
+      "id": "st-michael",
+      "title": {
+        "ml": "വി.മിഖായേൽ മാലാഖയോടുള്ള പ്രാർത്ഥന",
+        "en": "Prayer to St. Michael the Archangel"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "മുഖ്യദൂതനായ വി. മിഖായേലേ, സ്വർഗ്ഗീയ സൈന്യങ്ങളുടെ പ്രതാപവാനായ പ്രഭോ, ഉന്നത ശക്തികളോടും അധികാരങ്ങളോടും ഇരുളടഞ്ഞ ഈ ലോകത്തിലെ ഭരണകർത്താക്കളോടും ഉപരിതലങ്ങളിലെ ദുരാത്മാക്കളോടുമുള്ള യുദ്ധത്തിൽ ഞങ്ങളെ സഹായിക്കണമേ. ദൈവം സ്വന്തം ഛായയിൽ സൃഷ്ടിക്കുകയും വലിയ വിലകൊടുത്ത് വീണ്ടെടുക്കുകയും ചെയ്ത മനുഷ്യരെ പിശാചിന്റെ ക്രൂര ഭരണത്തിൽ നിന്ന് രക്ഷിക്കുവാൻ വരണമേ. അങ്ങയെ ആണല്ലോ തിരുസഭ തന്റെ പരിപാലകനും സംരക്ഷകനുമായി വണങ്ങുന്നത്.\n\nകർത്താവ് രക്ഷിച്ച ആത്മാക്കളെ സ്വർഗ്ഗത്തിലേയ്ക്ക് കൂട്ടികൊണ്ട് പോകാൻ നിയുക്തനായിരിക്കുന്നത് അങ്ങുതന്നെയാണല്ലോ. ആകയാൽ ഞങ്ങളുടെ പാദങ്ങളുടെ കീഴിൽ പിശാചിനെ അടിപ്പെടുത്തുവാൻ സമാധാനദാതാവായ ദൈവത്തോട് പ്രാർത്ഥിക്കണമേ. പിശാച് ഒരിക്കലും മനുഷ്യരെ കീഴ്പ്പെടുത്തുകയോ തിരുസഭയെ ഉപദ്രവിക്കുകയോ ചെയ്യാതിരിക്കട്ടെ.\n\nകർത്താവിന്റെ കരുണ വേഗം ഞങ്ങളുടെ മേൽ ഉണ്ടാകുന്നതിനായി ഞങ്ങളുടെ യാചനകൾ അത്യുന്നതന്റെ മുമ്പിൽ സമർപ്പിക്കണമേ. ദുഷ്ടജന്തുവും പഴയ സർപ്പവുമായ സാത്താനേയും അവന്റെ കൂട്ടുകാരേയും പിടിച്ചു കെട്ടി പാതാളത്തിൽ തള്ളിത്താഴ്ത്തണമേ. അവൻ ഇനി ഒരിക്കലും ജനങ്ങളെ വഴിതെറ്റിക്കാതിരിക്കട്ടെ.",
+          "en": "Most glorious Prince of the Heavenly Armies, Saint Michael the Archangel, defend us in our battle against principalities and powers, against the rulers of this world of darkness, against the spirits of wickedness in the high places. Come to the assistance of men whom God has created to His likeness and whom He has redeemed at a great price from the tyranny of the devil. The Holy Church venerates you as her guardian and protector; to you, the Lord has entrusted the souls of the redeemed to be led into heaven.\n\nPray therefore the God of Peace to crush Satan beneath our feet, that he may no longer retain men captive and do injury to the Church.\n\nOffer our prayers to the Most High, that without delay they may draw His mercy down upon us; take hold of the dragon, the old serpent, which is the devil and Satan, bind him and cast him into the bottomless pit, that he may no longer seduce the nations."
+        },
+        {
+          "type": "text",
+          "ml": "ആമ്മേൻ",
+          "en": "Amen."
+        }
+      ],
+      "image": "images/st-michael.jpg",
       "published": true
     }
   ]
