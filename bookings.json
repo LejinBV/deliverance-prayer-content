@@ -1,0 +1,8 @@
+{
+  "showTab": true,
+  "items": [
+    { "id": "gregorian-mass", "title": "Book the Gregorian Mass", "icon": "mass", "url": "", "published": true },
+    { "id": "retreat", "title": "Book the Retreat", "icon": "retreat", "url": "", "published": true },
+    { "id": "jsrc-schedules", "title": "JSRC Schedules", "icon": "schedule", "url": "", "published": true }
+  ]
+}
