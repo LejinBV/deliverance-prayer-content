@@ -1,5 +1,5 @@
 {
-  "showTab": true,
+  "showTab": false,
   "items": [
     { "id": "gregorian-mass", "title": "Book the Gregorian Mass", "icon": "mass", "url": "", "published": true },
     { "id": "retreat", "title": "Book the Retreat", "icon": "retreat", "url": "", "published": true },
