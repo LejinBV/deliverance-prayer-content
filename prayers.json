@@ -483,8 +483,30 @@
           "en": "Amen."
         }
       ],
-      "image": "images/devinemercy.png",
-      "bannerFocus": "0%",
+      "image": "images/dhinaprathikshta.png",
+      "bannerFocus": "30%",
+      "published": true
+    },
+    {
+      "id": "prayer-for-the-dead",
+      "title": {
+        "ml": "മരിച്ചവർക്കു വേണ്ടിയുള്ള പ്രാർത്ഥന",
+        "en": "Prayer for the Faithful Departed"
+      },
+      "blocks": [
+        {
+          "type": "text",
+          "ml": "അനുഗ്രഹങ്ങൾ നിറഞ്ഞിരിക്കുന്നവനേ, അനുകൂലത്തിന്റെ ദിവസത്തിൽ നിന്റെ സൃഷ്ടിയെ നീ പുത്തനാക്കി അനുകൂലമാക്കണമേ. കർത്താവേ, നിന്നിലുള്ള ആശ്രയത്തോടുകൂടെ മരിച്ച് നിന്റെ വരവിനായി നോക്കിപ്പാർക്കുന്ന ഞങ്ങളുടെ മരിച്ചുപോയവരെ ആശ്വസിപ്പിച്ചു പുണ്യപ്പെടുത്തണമേ. അബ്രഹാമിന്റെയും ഇസഹാക്കിന്റെയും യാക്കോബിന്റെയും മടിയിൽ അവരെ പാർപ്പിക്കണമേ.\n\nവന്നവനും വരുവാനിരിക്കുന്നവനും മരിച്ചവരെ അനുകൂലമാക്കുന്നവനും ആയവൻ വാഴ്ത്തപ്പെട്ടവനാകുന്നു എന്ന് ശരീരങ്ങളും ആത്മാക്കളും ശരിയായി അട്ടഹസിക്കുമാറാകണമേ.",
+          "en": "O You who are full of blessings, on the day of grace renew Your creation and make it pleasing to You. Lord, comfort and sanctify our departed, who died trusting in You and wait for Your coming. Let them rest in the bosom of Abraham, Isaac and Jacob.\n\nMay bodies and souls cry out together: Blessed is He who came, who is to come, and who restores the dead."
+        },
+        {
+          "type": "text",
+          "ml": "ആമ്മേൻ",
+          "en": "Amen."
+        }
+      ],
+       "image": "images/prayerforDead.png",
+      "bannerFocus": "30%",
       "published": true
     }
   ]
